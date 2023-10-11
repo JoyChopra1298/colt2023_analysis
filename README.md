@@ -25,3 +25,13 @@ Results of basic analysis
 1. There are 165 accepted papers
 2. There are 438 unique authors
 3. There are 173 unique affiliations
+4. Steve Hanneke is the author with highest number of accepted papers. He has 7 accepted papers.
+
+Top 7 authors with highest number of papers.
+1. Steve Hanneke - 7 papers
+2. Yury Polyanskiy - 6 papers
+3. Shay Moran - 6 papers
+4. Ilias Diakonikolas - 6 papers
+5. Constantinos Daskalakis - 4 papers
+6. Dylan J Foster - 4 papers
+7. Noah Golowich - 4 papers
