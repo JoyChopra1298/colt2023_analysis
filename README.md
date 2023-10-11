@@ -9,7 +9,7 @@ There are total 330 lines in `data_raw_data.txt` which indicates that there are 
 
 The structured data contains each paper in following JSON format
 ```
-"${paper_id}": {
+{
     "paper_id": Index of paper in the raw data,
     "paper_title": Title of the paper
     "authors": [
@@ -22,4 +22,6 @@ The structured data contains each paper in following JSON format
 ```
 
 Results of basic analysis
-1. There are 438 unique authors
+1. There are 165 accepted papers
+2. There are 438 unique authors
+3. There are 173 unique affiliations
