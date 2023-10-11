@@ -1,0 +1,3112 @@
+{
+    "1": {
+        "paper_id": 1,
+        "paper_title": "Towards a Complete Analysis of Langevin Monte Carlo: Beyond Poincar\\'e Inequality",
+        "authors": [
+            {
+                "author_name": "Alireza Mousavi-Hosseini",
+                "affiliation_name": "University of Toronto, Vector Institute"
+            },
+            {
+                "author_name": " Tyler K Farghly",
+                "affiliation_name": "University of Oxford"
+            },
+            {
+                "author_name": " Ye He",
+                "affiliation_name": "University of California, Davis"
+            },
+            {
+                "author_name": " Krishna Balasubramanian",
+                "affiliation_name": "University of California, Davis"
+            },
+            {
+                "author_name": " Murat A Erdogdu",
+                "affiliation_name": "University of Toronto, Vector Institute"
+            }
+        ]
+    },
+    "2": {
+        "paper_id": 2,
+        "paper_title": "Improved Discretization Analysis for Underdamped Langevin Monte Carlo",
+        "authors": [
+            {
+                "author_name": "Shunshi Zhang",
+                "affiliation_name": "University of Toronto, Vector Institute"
+            },
+            {
+                "author_name": " Sinho Chewi",
+                "affiliation_name": "Massachusetts Institute of Technology"
+            },
+            {
+                "author_name": " Mufan Li",
+                "affiliation_name": "University of Toronto"
+            },
+            {
+                "author_name": " Krishna Balasubramanian",
+                "affiliation_name": "University of California, Davis"
+            },
+            {
+                "author_name": " Murat A Erdogdu",
+                "affiliation_name": "University of Toronto, Vector Institute"
+            }
+        ]
+    },
+    "3": {
+        "paper_id": 3,
+        "paper_title": "The One-Inclusion Graph Algorithm is not Always Optimal",
+        "authors": [
+            {
+                "author_name": "Ishaq Aden-Ali",
+                "affiliation_name": "UC Berkeley"
+            },
+            {
+                "author_name": " Yeshwanth Cherapanamjeri",
+                "affiliation_name": "UC Berkeley"
+            },
+            {
+                "author_name": " Abhishek Shetty",
+                "affiliation_name": "Cornell University"
+            },
+            {
+                "author_name": " Nikita Zhivotovskiy",
+                "affiliation_name": "Google"
+            }
+        ]
+    },
+    "4": {
+        "paper_id": 4,
+        "paper_title": "Beyond Uniform Smoothness: A Stopped Analysis of Adaptive SGD",
+        "authors": [
+            {
+                "author_name": "Matthew Faw",
+                "affiliation_name": "University of Texas at Austin"
+            },
+            {
+                "author_name": " Litu Rout",
+                "affiliation_name": "UT Austin"
+            },
+            {
+                "author_name": " Constantine Caramanis",
+                "affiliation_name": "University of Texas"
+            },
+            {
+                "author_name": " Sanjay Shakkottai",
+                "affiliation_name": "University of Texas at Austin"
+            }
+        ]
+    },
+    "5": {
+        "paper_id": 5,
+        "paper_title": "Convergence of AdaGrad for Non-convex Objectives: Simple Proofs and Relaxed Assumptions",
+        "authors": [
+            {
+                "author_name": "Bohan Wang",
+                "affiliation_name": "University of Science and Technology of China"
+            },
+            {
+                "author_name": " Huishuai Zhang",
+                "affiliation_name": "Microsoft Research Asia"
+            },
+            {
+                "author_name": " Zhiming Ma",
+                "affiliation_name": ""
+            },
+            {
+                "author_name": " Wei Chen",
+                "affiliation_name": "Institute of Computing Technology, Chinese Academy of Sciences"
+            }
+        ]
+    },
+    "6": {
+        "paper_id": 6,
+        "paper_title": "Stability and Generalization of Stochastic Optimization with Nonconvex and Nonsmooth Problems",
+        "authors": [
+            {
+                "author_name": "Yunwen Lei",
+                "affiliation_name": "Hong Kong Baptist University"
+            }
+        ]
+    },
+    "7": {
+        "paper_id": 7,
+        "paper_title": "The Sample Complexity of Approximate Rejection Sampling With Applications to Smoothed Online Learning",
+        "authors": [
+            {
+                "author_name": "Adam Block",
+                "affiliation_name": "MIT"
+            },
+            {
+                "author_name": " Yury Polyanskiy",
+                "affiliation_name": "MIT"
+            }
+        ]
+    },
+    "8": {
+        "paper_id": 8,
+        "paper_title": "Online Learning and Solving Infinite Games with an ERM Oracle",
+        "authors": [
+            {
+                "author_name": "Yuval Dagan",
+                "affiliation_name": "-MIT"
+            },
+            {
+                "author_name": " Constantinos Daskalakis",
+                "affiliation_name": "MIT"
+            },
+            {
+                "author_name": " Angelos Assos",
+                "affiliation_name": "MIT"
+            },
+            {
+                "author_name": " Idan Attias",
+                "affiliation_name": "Ben-Gurion University"
+            },
+            {
+                "author_name": " Maxwell K Fishelson",
+                "affiliation_name": "MIT"
+            }
+        ]
+    },
+    "9": {
+        "paper_id": 9,
+        "paper_title": "Online Learning in Dynamically Changing Environments",
+        "authors": [
+            {
+                "author_name": "Changlong Wu",
+                "affiliation_name": "Purdue University"
+            },
+            {
+                "author_name": " Ananth Grama",
+                "affiliation_name": "Purdue University"
+            },
+            {
+                "author_name": " Wojciech Szpankowski",
+                "affiliation_name": "Purdue University"
+            }
+        ]
+    },
+    "10": {
+        "paper_id": 10,
+        "paper_title": "Accelerated Riemannian Optimization: Handling Constraints with a Prox to Bound Geometric Penalties",
+        "authors": [
+            {
+                "author_name": "David Mart\u00ednez-Rubio",
+                "affiliation_name": "ZIB"
+            },
+            {
+                "author_name": " Sebastian Pokutta",
+                "affiliation_name": "ZIB"
+            }
+        ]
+    },
+    "11": {
+        "paper_id": 11,
+        "paper_title": "Bregman Deviations of Generic Exponential Families",
+        "authors": [
+            {
+                "author_name": "Sayak Ray Chowdhury",
+                "affiliation_name": "Indian Institute of Science"
+            },
+            {
+                "author_name": " Patrick Saux",
+                "affiliation_name": "Inria"
+            },
+            {
+                "author_name": " Odalric Maillard",
+                "affiliation_name": "Inria"
+            },
+            {
+                "author_name": " Aditya Gopalan (Indian Institute of Science",
+                "affiliation_name": "IISc), Bangalore"
+            }
+        ]
+    },
+    "12": {
+        "paper_id": 12,
+        "paper_title": "Bagging is an Optimal PAC Learner",
+        "authors": [
+            {
+                "author_name": "Kasper Green Larsen",
+                "affiliation_name": "Aarhus University"
+            }
+        ]
+    },
+    "13": {
+        "paper_id": 13,
+        "paper_title": "Community Detection in the Hypergraph SBM: Optimal Recovery Given the Similarity Matrix",
+        "authors": [
+            {
+                "author_name": "Julia Gaudio",
+                "affiliation_name": "Northwestern University"
+            },
+            {
+                "author_name": " Nirmit Joshi",
+                "affiliation_name": "Toyota Technological Institute at Chicago"
+            }
+        ]
+    },
+    "14": {
+        "paper_id": 14,
+        "paper_title": "Find a witness or shatter: the landscape of computable PAC learning.",
+        "authors": [
+            {
+                "author_name": "Valentino Delle Rose",
+                "affiliation_name": "Universidad Cat\u00f3lica de Chile"
+            },
+            {
+                "author_name": " Alexander Kozachinskiy",
+                "affiliation_name": "Universidad Cat\u00f3lica de Chile"
+            },
+            {
+                "author_name": " Cristobal Rojas",
+                "affiliation_name": "IMC - Universidad Catolica"
+            },
+            {
+                "author_name": " Tomasz Steifer",
+                "affiliation_name": "Universidad Cat\u00f3lica de Chile"
+            }
+        ]
+    },
+    "15": {
+        "paper_id": 15,
+        "paper_title": "Proper Losses, Moduli of Convexity, and Surrogate Regret Bounds",
+        "authors": [
+            {
+                "author_name": "Han Bao",
+                "affiliation_name": "Kyoto University"
+            }
+        ]
+    },
+    "16": {
+        "paper_id": 16,
+        "paper_title": "Beyond Parallel Pancakes: Quasi-Polynomial Time Guarantees for Non-Spherical Gaussian Mixtures",
+        "authors": [
+            {
+                "author_name": "Rares-Darius Buhai",
+                "affiliation_name": "ETH Zurich"
+            },
+            {
+                "author_name": " David Steurer",
+                "affiliation_name": "ETH Zurich"
+            }
+        ]
+    },
+    "17": {
+        "paper_id": 17,
+        "paper_title": "Online Reinforcement Learning in Stochastic Continuous-Time Systems",
+        "authors": [
+            {
+                "author_name": "Mohamad Kazem Shirani Faradonbeh",
+                "affiliation_name": "University"
+            },
+            {
+                "author_name": " Mohamad Sadegh Shirani Faradonbeh",
+                "affiliation_name": "Stanford University"
+            }
+        ]
+    },
+    "18": {
+        "paper_id": 18,
+        "paper_title": "Best-of-three-worlds Analysis for Linear Bandits with Follow-the-regularized-leader Algorithm",
+        "authors": [
+            {
+                "author_name": "Fang Kong",
+                "affiliation_name": "Shanghai Jiao Tong University"
+            },
+            {
+                "author_name": " Canzhe Zhao",
+                "affiliation_name": "Shanghai Jiao Tong University"
+            },
+            {
+                "author_name": " Shuai Li",
+                "affiliation_name": "Shanghai Jiao Tong University"
+            }
+        ]
+    },
+    "19": {
+        "paper_id": 19,
+        "paper_title": "Private Online Prediction from Experts: Separations and Faster Rates",
+        "authors": [
+            {
+                "author_name": "Hilal Asi",
+                "affiliation_name": "Apple"
+            },
+            {
+                "author_name": " Vitaly Feldman",
+                "affiliation_name": "Apple"
+            },
+            {
+                "author_name": " Tomer Koren",
+                "affiliation_name": "Tel Aviv University and Google"
+            },
+            {
+                "author_name": " Kunal Talwar",
+                "affiliation_name": "Apple"
+            }
+        ]
+    },
+    "20": {
+        "paper_id": 20,
+        "paper_title": "Improved Bounds for Multi-task Learning with Trace Norm Regularization",
+        "authors": [
+            {
+                "author_name": "Weiwei Liu",
+                "affiliation_name": "Wuhan University"
+            }
+        ]
+    },
+    "21": {
+        "paper_id": 21,
+        "paper_title": "Local Glivenko-Cantelli",
+        "authors": [
+            {
+                "author_name": "Doron Cohen",
+                "affiliation_name": "Ben-Gurion University of the Negev"
+            },
+            {
+                "author_name": " Aryeh Kontorovich",
+                "affiliation_name": "Ben-Gurion University of the Negev"
+            }
+        ]
+    },
+    "22": {
+        "paper_id": 22,
+        "paper_title": "Non-asymptotic convergence bounds for Sinkhorn iterates and their gradients: a coupling approach.",
+        "authors": [
+            {
+                "author_name": "Giacomo Greco",
+                "affiliation_name": "Eindhoven University of Technology"
+            },
+            {
+                "author_name": " Maxence Noble",
+                "affiliation_name": "Ecole Polytechnique"
+            },
+            {
+                "author_name": " Giovanni Conforti",
+                "affiliation_name": "\u00c9cole Polytechnique"
+            },
+            {
+                "author_name": " Alain Durmus",
+                "affiliation_name": "Ecole polytechnique"
+            }
+        ]
+    },
+    "23": {
+        "paper_id": 23,
+        "paper_title": "Multitask Learning via Shared Features: Algorithms and Hardness",
+        "authors": [
+            {
+                "author_name": "Konstantina Bairaktari",
+                "affiliation_name": "Northeastern University"
+            },
+            {
+                "author_name": " Guy Blanc",
+                "affiliation_name": "Stanford University"
+            },
+            {
+                "author_name": " Li-Yang Tan",
+                "affiliation_name": "Stanford University"
+            },
+            {
+                "author_name": " Jonathan Ullman",
+                "affiliation_name": "Northeastern University"
+            },
+            {
+                "author_name": " Lydia Zakynthinou",
+                "affiliation_name": "Northeastern University"
+            }
+        ]
+    },
+    "24": {
+        "paper_id": 24,
+        "paper_title": "Optimal Prediction Using Expert Advice and Randomized Littlestone Dimension",
+        "authors": [
+            {
+                "author_name": "Yuval filmus",
+                "affiliation_name": "Technion"
+            },
+            {
+                "author_name": " Steve Hanneke",
+                "affiliation_name": "Purdue University"
+            },
+            {
+                "author_name": " Idan Mehalel",
+                "affiliation_name": "Technion"
+            },
+            {
+                "author_name": " Shay Moran",
+                "affiliation_name": "Technion"
+            }
+        ]
+    },
+    "25": {
+        "paper_id": 25,
+        "paper_title": "Uniqueness of BP fixed point for the Potts model and applications to community detection",
+        "authors": [
+            {
+                "author_name": "Yuzhou Gu",
+                "affiliation_name": "Massachusetts Institute of Technology"
+            },
+            {
+                "author_name": " Yury Polyanskiy",
+                "affiliation_name": "MIT"
+            }
+        ]
+    },
+    "26": {
+        "paper_id": 26,
+        "paper_title": "Weak Recovery Threshold for the Hypergraph Stochastic Block Model",
+        "authors": [
+            {
+                "author_name": "Yuzhou Gu",
+                "affiliation_name": "Massachusetts Institute of Technology"
+            },
+            {
+                "author_name": " Yury Polyanskiy",
+                "affiliation_name": "MIT"
+            }
+        ]
+    },
+    "27": {
+        "paper_id": 27,
+        "paper_title": "Statistical-Computational Tradeoffs in Mixed Sparse Linear Regression",
+        "authors": [
+            {
+                "author_name": "Gabriel Arpino",
+                "affiliation_name": "University of Cambridge"
+            },
+            {
+                "author_name": " Ramji Venkataramanan",
+                "affiliation_name": "University of Cambridge"
+            }
+        ]
+    },
+    "28": {
+        "paper_id": 28,
+        "paper_title": "Semidefinite programs simulate approximate message passing robustly",
+        "authors": [
+            {
+                "author_name": "Mikhail S Ivkov",
+                "affiliation_name": "Stanford University"
+            },
+            {
+                "author_name": " Tselil Schramm",
+                "affiliation_name": "Stanford University"
+            }
+        ]
+    },
+    "29": {
+        "paper_id": 29,
+        "paper_title": "VO$Q$L: Towards Optimal Regret in Model-free RL with Nonlinear Function Approximation",
+        "authors": [
+            {
+                "author_name": "Alekh Agarwal",
+                "affiliation_name": "Google"
+            },
+            {
+                "author_name": " Yujia Jin",
+                "affiliation_name": "Stanford University"
+            },
+            {
+                "author_name": " Tong Zhang",
+                "affiliation_name": "Google"
+            }
+        ]
+    },
+    "30": {
+        "paper_id": 30,
+        "paper_title": "Nearly Optimal Algorithms for Testing and Learning Quantum Junta Channels",
+        "authors": [
+            {
+                "author_name": "Zongbo Bao",
+                "affiliation_name": "Nanjing University"
+            },
+            {
+                "author_name": " Penghui Yao",
+                "affiliation_name": "Nanjing University"
+            }
+        ]
+    },
+    "31": {
+        "paper_id": 31,
+        "paper_title": "Repeated Bilateral Trade Against a Smoothed Adversary",
+        "authors": [
+            {
+                "author_name": "Nicol\u00f2 Cesa-Bianchi",
+                "affiliation_name": "University of Milan"
+            },
+            {
+                "author_name": " Tommaso R. Cesari",
+                "affiliation_name": "University of Ottawa"
+            },
+            {
+                "author_name": " Roberto Colomboni",
+                "affiliation_name": "Universit\u00e0 degli Studi di Milano & Istituto Italiano di Tecnologia"
+            },
+            {
+                "author_name": " Federico Fusco",
+                "affiliation_name": "Sapienza University of Rome"
+            },
+            {
+                "author_name": " Stefano Leonardi",
+                "affiliation_name": "Sapienza University of Rome"
+            }
+        ]
+    },
+    "32": {
+        "paper_id": 32,
+        "paper_title": "On the Existence of a Complexity in Fixed Budget Bandit Identification",
+        "authors": [
+            {
+                "author_name": "R\u00e9my Degenne",
+                "affiliation_name": "Inria"
+            }
+        ]
+    },
+    "33": {
+        "paper_id": 33,
+        "paper_title": "Over-Parameterization Exponentially Slows Down Gradient Descent for Learning a Single Neuron",
+        "authors": [
+            {
+                "author_name": "Weihang Xu",
+                "affiliation_name": "Tsinghua University"
+            },
+            {
+                "author_name": " Simon Du",
+                "affiliation_name": "University of Washington"
+            }
+        ]
+    },
+    "34": {
+        "paper_id": 34,
+        "paper_title": "From high-dimensional & mean-field dynamics to dimensionless ODEs: A unifying approach to SGD in two-layers networks",
+        "authors": [
+            {
+                "author_name": "Luca Arnaboldi",
+                "affiliation_name": "EPFL"
+            },
+            {
+                "author_name": " Ludovic Stephan",
+                "affiliation_name": "EPFL"
+            },
+            {
+                "author_name": " FLORENT KRZAKALA",
+                "affiliation_name": "EPFL"
+            },
+            {
+                "author_name": " Bruno Loureiro",
+                "affiliation_name": "EPFL"
+            }
+        ]
+    },
+    "35": {
+        "paper_id": 35,
+        "paper_title": "Orthogonal Directions Constrained Gradient Method: from non-linear equality constraints to Stiefel manifold",
+        "authors": [
+            {
+                "author_name": "Sholom Schechtman",
+                "affiliation_name": "T\u00e9l\u00e9com SudParis"
+            },
+            {
+                "author_name": " Daniil Tiapkin",
+                "affiliation_name": "HSE University"
+            },
+            {
+                "author_name": " Eric Moulines",
+                "affiliation_name": "Ecole Polytechnique"
+            },
+            {
+                "author_name": " Michael Muehlebach",
+                "affiliation_name": " Max Planck Institute for Intelligent Systems"
+            }
+        ]
+    },
+    "36": {
+        "paper_id": 36,
+        "paper_title": "Projection-free Online Exp-concave Optimization",
+        "authors": [
+            {
+                "author_name": "Dan Garber",
+                "affiliation_name": "Technion"
+            },
+            {
+                "author_name": " Ben Kretzu",
+                "affiliation_name": "Technion"
+            }
+        ]
+    },
+    "37": {
+        "paper_id": 37,
+        "paper_title": "A Unified Analysis of Nonstochastic Delayed Feedback for Combinatorial Semi-Bandits, Linear Bandits, and MDPs",
+        "authors": [
+            {
+                "author_name": "Dirk van der Hoeven",
+                "affiliation_name": "University of Amsterdam"
+            },
+            {
+                "author_name": " Lukas Zierahn",
+                "affiliation_name": "University of Milan"
+            },
+            {
+                "author_name": " Tal Lancewicki",
+                "affiliation_name": "Tel-Aviv University"
+            },
+            {
+                "author_name": " Aviv Rosenberg",
+                "affiliation_name": "Amazon Science"
+            },
+            {
+                "author_name": " Nicol\u00f2 Cesa-Bianchi",
+                "affiliation_name": "University of Milan"
+            }
+        ]
+    },
+    "38": {
+        "paper_id": 38,
+        "paper_title": "Instance-Optimality in Interactive Decision Making: Toward a Non-Asymptotic Theory",
+        "authors": [
+            {
+                "author_name": "Andrew J Wagenmaker",
+                "affiliation_name": "University of Washington"
+            },
+            {
+                "author_name": " Dylan J Foster",
+                "affiliation_name": "Microsoft Research"
+            }
+        ]
+    },
+    "39": {
+        "paper_id": 39,
+        "paper_title": "Improved dimension dependence of a proximal algorithm for sampling",
+        "authors": [
+            {
+                "author_name": "Jiaojiao Fan",
+                "affiliation_name": "Georgia Institute of Technology"
+            },
+            {
+                "author_name": " Bo Yuan",
+                "affiliation_name": "Georgia Institute of Technology"
+            },
+            {
+                "author_name": " Yongxin Chen",
+                "affiliation_name": "Georgia Institute of Technology"
+            }
+        ]
+    },
+    "40": {
+        "paper_id": 40,
+        "paper_title": "Private Covariance Approximation and Eigenvalue-Gap Bounds for Complex Gaussian Perturbations",
+        "authors": [
+            {
+                "author_name": "Oren Mangoubi",
+                "affiliation_name": "WPI"
+            },
+            {
+                "author_name": " Nisheeth K. Vishnoi",
+                "affiliation_name": "Yale University"
+            }
+        ]
+    },
+    "41": {
+        "paper_id": 41,
+        "paper_title": "Exponential Hardness of Reinforcement Learning with Linear Function Approximation",
+        "authors": [
+            {
+                "author_name": "Sihan Liu",
+                "affiliation_name": "University of California San Diego"
+            },
+            {
+                "author_name": " Gaurav Mahajan",
+                "affiliation_name": "University of California, San Diego"
+            },
+            {
+                "author_name": " Daniel Kane",
+                "affiliation_name": "-"
+            },
+            {
+                "author_name": " Shachar Lovett",
+                "affiliation_name": "University of California San Diego"
+            },
+            {
+                "author_name": " Gellert Weisz",
+                "affiliation_name": "Deepmind / UCL"
+            },
+            {
+                "author_name": " Csaba Szepesvari",
+                "affiliation_name": "DeepMind/University of Alberta"
+            }
+        ]
+    },
+    "42": {
+        "paper_id": 42,
+        "paper_title": "Oracle-Efficient Smoothed Online Learning for Piecewise Continuous Decision Making",
+        "authors": [
+            {
+                "author_name": "Adam Block",
+                "affiliation_name": "MIT"
+            },
+            {
+                "author_name": " Max Simchowitz",
+                "affiliation_name": "MIT"
+            },
+            {
+                "author_name": " Alexander Rakhlin",
+                "affiliation_name": "MIT"
+            }
+        ]
+    },
+    "43": {
+        "paper_id": 43,
+        "paper_title": "Learning and Testing Latent-Tree Ising Models Efficiently",
+        "authors": [
+            {
+                "author_name": "Vardis Kandiros",
+                "affiliation_name": "MIT"
+            },
+            {
+                "author_name": " Constantinos Daskalakis",
+                "affiliation_name": "MIT"
+            },
+            {
+                "author_name": " Yuval Dagan",
+                "affiliation_name": "-MIT"
+            },
+            {
+                "author_name": " Davin Choo",
+                "affiliation_name": "National University of Singapore"
+            }
+        ]
+    },
+    "44": {
+        "paper_id": 44,
+        "paper_title": "Universality of Langevin Diffusion for Private Optimization, with Applications to Sampling from Rashomon Sets",
+        "authors": [
+            {
+                "author_name": "Arun Ganesh",
+                "affiliation_name": "Google"
+            },
+            {
+                "author_name": " Abhradeep Thakurta",
+                "affiliation_name": "Google"
+            },
+            {
+                "author_name": " Jalaj Upadhyay",
+                "affiliation_name": "Rutgers University"
+            }
+        ]
+    },
+    "45": {
+        "paper_id": 45,
+        "paper_title": "Complexity of High-Dimensional Identity Testing with Coordinate Conditional Sampling",
+        "authors": [
+            {
+                "author_name": "Antonio Blanca",
+                "affiliation_name": "Penn State"
+            },
+            {
+                "author_name": " Zongchen Chen",
+                "affiliation_name": "MIT"
+            },
+            {
+                "author_name": " Daniel Stefankovic",
+                "affiliation_name": "University of Rochester"
+            },
+            {
+                "author_name": " Eric Vigoda",
+                "affiliation_name": "UCSB"
+            }
+        ]
+    },
+    "46": {
+        "paper_id": 46,
+        "paper_title": "Contexts can be Cheap: Solving Stochastic Contextual Bandits with Linear Bandit Algorithms",
+        "authors": [
+            {
+                "author_name": "Osama A Hanna",
+                "affiliation_name": "UCLA"
+            },
+            {
+                "author_name": " Lin Yang",
+                "affiliation_name": "UCLA"
+            },
+            {
+                "author_name": " Christina Fragouli",
+                "affiliation_name": ""
+            }
+        ]
+    },
+    "47": {
+        "paper_id": 47,
+        "paper_title": "Quantum Channel Certification with Incoherent Measurements",
+        "authors": [
+            {
+                "author_name": "Omar Fawzi",
+                "affiliation_name": "ENS Lyon"
+            },
+            {
+                "author_name": " Nicolas Flammarion",
+                "affiliation_name": "EPFL"
+            },
+            {
+                "author_name": " Aur\u00e9lien Garivier",
+                "affiliation_name": "ENS Lyon"
+            },
+            {
+                "author_name": " Aadil Oufkir",
+                "affiliation_name": "ENSL"
+            }
+        ]
+    },
+    "48": {
+        "paper_id": 48,
+        "paper_title": "List Online Classification",
+        "authors": [
+            {
+                "author_name": "Shay Moran",
+                "affiliation_name": "-"
+            },
+            {
+                "author_name": " Ohad Sharon",
+                "affiliation_name": "Technion"
+            },
+            {
+                "author_name": " Iska Tsubari",
+                "affiliation_name": "Technion"
+            },
+            {
+                "author_name": " Sivan Yosebashvili",
+                "affiliation_name": "Technion"
+            }
+        ]
+    },
+    "49": {
+        "paper_id": 49,
+        "paper_title": "InfoNCE Loss Provably Learns Cluster-Preserving Representations",
+        "authors": [
+            {
+                "author_name": "Advait Parulekar",
+                "affiliation_name": "University of Texas at Austin"
+            },
+            {
+                "author_name": " Liam Collins",
+                "affiliation_name": "University of Texas at Austin"
+            },
+            {
+                "author_name": " Karthikeyan Shanmugam",
+                "affiliation_name": "Google"
+            },
+            {
+                "author_name": " Aryan Mokhtari",
+                "affiliation_name": "UT Austin"
+            },
+            {
+                "author_name": " Sanjay Shakkottai",
+                "affiliation_name": "University of Texas at Austin"
+            }
+        ]
+    },
+    "50": {
+        "paper_id": 50,
+        "paper_title": "Online Learning Guided Curvature Approximation: A Quasi-Newton Method with Global Non-Asymptotic Superlinear Convergence",
+        "authors": [
+            {
+                "author_name": "Ruichen Jiang",
+                "affiliation_name": "UT Austin"
+            },
+            {
+                "author_name": " Qiujiang Jin",
+                "affiliation_name": "University of Texas at Austin"
+            },
+            {
+                "author_name": " Aryan Mokhtari",
+                "affiliation_name": "UT Austin"
+            }
+        ]
+    },
+    "51": {
+        "paper_id": 51,
+        "paper_title": "Exploring Local Norms in Exp-concave Statistical Learning",
+        "authors": [
+            {
+                "author_name": "Nikita Puchkin",
+                "affiliation_name": "HSE University and IITP RAS"
+            },
+            {
+                "author_name": " Nikita Zhivotovskiy",
+                "affiliation_name": "Google"
+            }
+        ]
+    },
+    "52": {
+        "paper_id": 52,
+        "paper_title": "Learning Hidden Markov Models Using Conditional Samples",
+        "authors": [
+            {
+                "author_name": "Gaurav Mahajan",
+                "affiliation_name": "University of California, San Diego"
+            },
+            {
+                "author_name": " Sham Kakade",
+                "affiliation_name": "Harvard University"
+            },
+            {
+                "author_name": " Akshay Krishnamurthy",
+                "affiliation_name": "Microsoft"
+            },
+            {
+                "author_name": " Cyril Zhang",
+                "affiliation_name": "Microsoft Research"
+            }
+        ]
+    },
+    "53": {
+        "paper_id": 53,
+        "paper_title": "A Second-Order Method for Stochastic Bandit Convex Optimisation",
+        "authors": [
+            {
+                "author_name": "Tor Lattimore",
+                "affiliation_name": "DeepMind"
+            },
+            {
+                "author_name": " Andras Gyorgy",
+                "affiliation_name": "DeepMind"
+            }
+        ]
+    },
+    "54": {
+        "paper_id": 54,
+        "paper_title": "A Lower Bound for Linear and Kernel Regression with Adaptive Covariates",
+        "authors": [
+            {
+                "author_name": "Tor Lattimore",
+                "affiliation_name": "DeepMind"
+            }
+        ]
+    },
+    "55": {
+        "paper_id": 55,
+        "paper_title": "Provable Benefits of Representational Transfer in Reinforcement Learning",
+        "authors": [
+            {
+                "author_name": "Alekh Agarwal",
+                "affiliation_name": "Google"
+            },
+            {
+                "author_name": " Yuda Song",
+                "affiliation_name": "Carnegie Mellon University"
+            },
+            {
+                "author_name": " Wen Sun",
+                "affiliation_name": "Cornell University"
+            },
+            {
+                "author_name": " Kaiwen Wang",
+                "affiliation_name": "Cornell University"
+            },
+            {
+                "author_name": " Mengdi Wang",
+                "affiliation_name": "Princeton University/DeepMind"
+            },
+            {
+                "author_name": " Xuezhou Zhang",
+                "affiliation_name": "Princeton"
+            }
+        ]
+    },
+    "56": {
+        "paper_id": 56,
+        "paper_title": "Geodesically convex $M$-estimation in metric spaces",
+        "authors": [
+            {
+                "author_name": "Victor-Emmanuel Brunel",
+                "affiliation_name": "ENSAE ParisTech"
+            }
+        ]
+    },
+    "57": {
+        "paper_id": 57,
+        "paper_title": "Information-Computation Tradeoffs for Learning Margin Halfspaces with Random Classification Noise",
+        "authors": [
+            {
+                "author_name": "Ilias Diakonikolas",
+                "affiliation_name": "University of Wisconsin-Madison"
+            },
+            {
+                "author_name": " Jelena Diakonikolas",
+                "affiliation_name": "University of Wisconsin-Madison"
+            },
+            {
+                "author_name": " Daniel M Kane",
+                "affiliation_name": "UCSD"
+            },
+            {
+                "author_name": " Puqian Wang",
+                "affiliation_name": "Universty of Wisconsin Madison"
+            },
+            {
+                "author_name": " Nikos Zarifis",
+                "affiliation_name": "University of Wisconsin-Madison "
+            }
+        ]
+    },
+    "58": {
+        "paper_id": 58,
+        "paper_title": "Tighter PAC-Bayes Bounds Through Coin-Betting",
+        "authors": [
+            {
+                "author_name": "Kyoungseok Jang",
+                "affiliation_name": "University of Arizona"
+            },
+            {
+                "author_name": " Kwang-Sung Jun",
+                "affiliation_name": "University of Arizona"
+            },
+            {
+                "author_name": " Ilja Kuzborskij",
+                "affiliation_name": "DeepMind"
+            },
+            {
+                "author_name": " Francesco Orabona",
+                "affiliation_name": "Boston University"
+            }
+        ]
+    },
+    "59": {
+        "paper_id": 59,
+        "paper_title": "Inference on Strongly Identified Functionals of Weakly Identified Functions",
+        "authors": [
+            {
+                "author_name": "Andrew Bennett",
+                "affiliation_name": "Cornell University"
+            },
+            {
+                "author_name": " Nathan Kallus",
+                "affiliation_name": "Cornell University"
+            },
+            {
+                "author_name": " Xiaojie Mao",
+                "affiliation_name": "Tsinghua University"
+            },
+            {
+                "author_name": " Whitney Newey",
+                "affiliation_name": "MIT"
+            },
+            {
+                "author_name": " Vasilis Syrgkanis",
+                "affiliation_name": "Stanford University"
+            },
+            {
+                "author_name": " Masatoshi Uehara",
+                "affiliation_name": "Cornell University"
+            }
+        ]
+    },
+    "60": {
+        "paper_id": 60,
+        "paper_title": "Breaking the Lower Bound with (Little) Structure: Acceleration in Non-Convex Stochastic Optimization with Heavy-Tailed Noise",
+        "authors": [
+            {
+                "author_name": "Zijian Liu",
+                "affiliation_name": "New York University"
+            },
+            {
+                "author_name": " Jiawei Zhang",
+                "affiliation_name": "New York University"
+            },
+            {
+                "author_name": " Zhengyuan Zhou",
+                "affiliation_name": "New York University"
+            }
+        ]
+    },
+    "61": {
+        "paper_id": 61,
+        "paper_title": "Minimax Instrumental Variable Regression and $L_2$ Convergence Guarantees without Identification or Closedness",
+        "authors": [
+            {
+                "author_name": "Andrew Bennett",
+                "affiliation_name": "Cornell University"
+            },
+            {
+                "author_name": " Nathan Kallus",
+                "affiliation_name": "Cornell University"
+            },
+            {
+                "author_name": " Xiaojie Mao",
+                "affiliation_name": "Tsinghua University"
+            },
+            {
+                "author_name": " Whitney Newey",
+                "affiliation_name": "MIT"
+            },
+            {
+                "author_name": " Vasilis Syrgkanis",
+                "affiliation_name": "Stanford University"
+            },
+            {
+                "author_name": " Masatoshi Uehara",
+                "affiliation_name": "Cornell University"
+            }
+        ]
+    },
+    "62": {
+        "paper_id": 62,
+        "paper_title": "SQ Lower Bounds for Learning Mixtures of Separated and Bounded Covariance Gaussians",
+        "authors": [
+            {
+                "author_name": "Ilias Diakonikolas",
+                "affiliation_name": "University of Wisconsin-Madison"
+            },
+            {
+                "author_name": " Daniel M. Kane",
+                "affiliation_name": "UCSD"
+            },
+            {
+                "author_name": " Thanasis Pittas",
+                "affiliation_name": "University of Wisconsin-Madison"
+            },
+            {
+                "author_name": " Nikos Zarifis",
+                "affiliation_name": "University of Wisconsin-Madison "
+            }
+        ]
+    },
+    "63": {
+        "paper_id": 63,
+        "paper_title": "Allocating Divisible Resources on Arms with Unknown and Random Rewards",
+        "authors": [
+            {
+                "author_name": "Wenhao LI",
+                "affiliation_name": "University of Toronto"
+            },
+            {
+                "author_name": " Ningyuan Chen",
+                "affiliation_name": "University of Toronto"
+            }
+        ]
+    },
+    "64": {
+        "paper_id": 64,
+        "paper_title": "Semi-Random Sparse Recovery in Nearly-Linear Time",
+        "authors": [
+            {
+                "author_name": "Jonathan Kelner",
+                "affiliation_name": "MIT"
+            },
+            {
+                "author_name": " Jerry Li",
+                "affiliation_name": "Microsoft"
+            },
+            {
+                "author_name": " Allen X Liu",
+                "affiliation_name": "MIT"
+            },
+            {
+                "author_name": " Aaron Sidford",
+                "affiliation_name": "Stanford"
+            },
+            {
+                "author_name": " Kevin Tian",
+                "affiliation_name": "Microsoft Research"
+            }
+        ]
+    },
+    "65": {
+        "paper_id": 65,
+        "paper_title": "Algorithmic Aspects of the Log-Laplace Transform and a Non-Euclidean Proximal Sampler",
+        "authors": [
+            {
+                "author_name": "Sivakanth Gopi",
+                "affiliation_name": "Microsoft Research"
+            },
+            {
+                "author_name": " Yin Tat Lee",
+                "affiliation_name": "UW"
+            },
+            {
+                "author_name": " Daogao Liu",
+                "affiliation_name": "University of Washington"
+            },
+            {
+                "author_name": " Ruoqi Shen",
+                "affiliation_name": "University of Washington"
+            },
+            {
+                "author_name": " Kevin Tian",
+                "affiliation_name": "Microsoft Research"
+            }
+        ]
+    },
+    "66": {
+        "paper_id": 66,
+        "paper_title": "Detection-Recovery Gap for Planted Dense Cycles",
+        "authors": [
+            {
+                "author_name": "Cheng Mao",
+                "affiliation_name": "Georgia Institute of Technology"
+            },
+            {
+                "author_name": " Alexander S Wein",
+                "affiliation_name": "UC Davis"
+            },
+            {
+                "author_name": " Shenduo Zhang",
+                "affiliation_name": "Georgia Institute of Technology "
+            }
+        ]
+    },
+    "67": {
+        "paper_id": 67,
+        "paper_title": "Differentially Private Algorithms for the Stochastic Saddle Point Problem with Optimal Rates for the Strong Gap",
+        "authors": [
+            {
+                "author_name": "Raef Bassily",
+                "affiliation_name": "The Ohio State University"
+            },
+            {
+                "author_name": " Cristobal Guzman",
+                "affiliation_name": "Pontificia Universidad Cat\u00f3lica de Chile"
+            },
+            {
+                "author_name": " Michael Menart",
+                "affiliation_name": "The Ohio State University"
+            }
+        ]
+    },
+    "68": {
+        "paper_id": 68,
+        "paper_title": "Resolving the Mixing Time of the Langevin Algorithm to its Stationary Distribution for Log-Concave Sampling",
+        "authors": [
+            {
+                "author_name": "Jason Altschuler",
+                "affiliation_name": "MIT"
+            },
+            {
+                "author_name": " Kunal Talwar",
+                "affiliation_name": "Apple"
+            }
+        ]
+    },
+    "69": {
+        "paper_id": 69,
+        "paper_title": "A Pretty Fast Algorithm for Adaptive Private Mean Estimation",
+        "authors": [
+            {
+                "author_name": "Rohith Kuditipudi",
+                "affiliation_name": "Stanford University"
+            },
+            {
+                "author_name": " John Duchi",
+                "affiliation_name": "Stanford University"
+            },
+            {
+                "author_name": " Saminul Haque",
+                "affiliation_name": "Stanford University"
+            }
+        ]
+    },
+    "70": {
+        "paper_id": 70,
+        "paper_title": "SGD learning on neural networks: leap complexity and saddle-to-saddle dynamics",
+        "authors": [
+            {
+                "author_name": "Emmanuel Abbe",
+                "affiliation_name": "EPFL"
+            },
+            {
+                "author_name": " Enric Boix Adsera",
+                "affiliation_name": "MIT"
+            },
+            {
+                "author_name": " Theodor Misiakiewicz",
+                "affiliation_name": "Stanford University"
+            }
+        ]
+    },
+    "71": {
+        "paper_id": 71,
+        "paper_title": "Optimal Scoring Rules for Multi-dimensional Effort",
+        "authors": [
+            {
+                "author_name": "Jason D. Hartline",
+                "affiliation_name": "Northwestern University"
+            },
+            {
+                "author_name": " Liren Shan",
+                "affiliation_name": "Northwestern University"
+            },
+            {
+                "author_name": " Yingkai Li",
+                "affiliation_name": "Yale University"
+            },
+            {
+                "author_name": " Yifan Wu",
+                "affiliation_name": "Northwestern University"
+            }
+        ]
+    },
+    "72": {
+        "paper_id": 72,
+        "paper_title": "Breaking the Curse of Multiagents in a Large State Space: RL in Markov Games with Independent Linear Function Approximation",
+        "authors": [
+            {
+                "author_name": "Qiwen Cui",
+                "affiliation_name": "University of Washington"
+            },
+            {
+                "author_name": " Kaiqing Zhang",
+                "affiliation_name": "University of Maryland, College Park"
+            },
+            {
+                "author_name": " Simon Du",
+                "affiliation_name": "University of Washington"
+            }
+        ]
+    },
+    "73": {
+        "paper_id": 73,
+        "paper_title": "Best-of-Three-Worlds Linear Bandit Algorithm with Variance-Adaptive Regret Bounds",
+        "authors": [
+            {
+                "author_name": "Shinji Ito",
+                "affiliation_name": "NEC Corporation"
+            },
+            {
+                "author_name": " Kei Takemura",
+                "affiliation_name": "NEC Corporation"
+            }
+        ]
+    },
+    "74": {
+        "paper_id": 74,
+        "paper_title": "On the Complexity of Multi-Agent Decision Making: From Learning in Games to Partial Monitoring",
+        "authors": [
+            {
+                "author_name": "Dean Foster",
+                "affiliation_name": "Amazon"
+            },
+            {
+                "author_name": " Dylan J Foster",
+                "affiliation_name": "Microsoft Research"
+            },
+            {
+                "author_name": " Noah Golowich",
+                "affiliation_name": "Massachusetts Institute of Technology"
+            },
+            {
+                "author_name": " Alexander Rakhlin",
+                "affiliation_name": "MIT"
+            }
+        ]
+    },
+    "75": {
+        "paper_id": 75,
+        "paper_title": "Breaking the Curse of Multiagency: Provably Efficient Decentralized Multi-Agent RL with Function Approximation",
+        "authors": [
+            {
+                "author_name": "Yuanhao Wang",
+                "affiliation_name": "Princeton University"
+            },
+            {
+                "author_name": " Qinghua Liu",
+                "affiliation_name": "Princeton University"
+            },
+            {
+                "author_name": " Yu Bai",
+                "affiliation_name": "Salesforce Research"
+            },
+            {
+                "author_name": " Chi Jin",
+                "affiliation_name": "Princeton University"
+            }
+        ]
+    },
+    "76": {
+        "paper_id": 76,
+        "paper_title": "Tight bounds on the hardness of learning simple nonparametric mixtures",
+        "authors": [
+            {
+                "author_name": "Wai Ming Tai",
+                "affiliation_name": "University of Chicago"
+            },
+            {
+                "author_name": " Bryon Aragam",
+                "affiliation_name": "University of Chicago"
+            }
+        ]
+    },
+    "77": {
+        "paper_id": 77,
+        "paper_title": "Information-Directed Selection for Top-Two Algorithms",
+        "authors": [
+            {
+                "author_name": "Wei You",
+                "affiliation_name": "The Hong Kong University of Science and Technology"
+            },
+            {
+                "author_name": " Chao Qin",
+                "affiliation_name": "Columbia University"
+            },
+            {
+                "author_name": " Zihao Wang",
+                "affiliation_name": "The Hong Kong University of Science and Technology"
+            },
+            {
+                "author_name": " Shuoguang Yang",
+                "affiliation_name": "The Hong Kong University of Science and Technology"
+            }
+        ]
+    },
+    "78": {
+        "paper_id": 78,
+        "paper_title": "Accelerated and Sparse Algorithms for Approximate Personalized PageRank and Beyond",
+        "authors": [
+            {
+                "author_name": "David Mart\u00ednez-Rubio",
+                "affiliation_name": "ZIB"
+            },
+            {
+                "author_name": " Elias Wirth",
+                "affiliation_name": "TU Berlin"
+            },
+            {
+                "author_name": " Sebastian Pokutta",
+                "affiliation_name": "ZIB"
+            }
+        ]
+    },
+    "79": {
+        "paper_id": 79,
+        "paper_title": "Toward L_\\infty Recovery of Nonlinear Functions: A Polynomial Sample Complexity Bound for Gaussian Random Fields",
+        "authors": [
+            {
+                "author_name": "Kefan Dong",
+                "affiliation_name": "Stanford University"
+            },
+            {
+                "author_name": " Tengyu Ma",
+                "affiliation_name": "Stanford"
+            }
+        ]
+    },
+    "80": {
+        "paper_id": 80,
+        "paper_title": "Self-Directed Linear Classification",
+        "authors": [
+            {
+                "author_name": "Ilias Diakonikolas",
+                "affiliation_name": "University of Wisconsin-Madison"
+            },
+            {
+                "author_name": " Vasilis Kontonis",
+                "affiliation_name": "University of Wisconsin-Madison"
+            },
+            {
+                "author_name": " Christos Tzamos",
+                "affiliation_name": "UW-Madison"
+            },
+            {
+                "author_name": " Nikos Zarifis",
+                "affiliation_name": "University of Wisconsin-Madison "
+            }
+        ]
+    },
+    "81": {
+        "paper_id": 81,
+        "paper_title": "On the Lower Bound of Minimizing Polyak-\u0141ojasiewicz functions",
+        "authors": [
+            {
+                "author_name": "Pengyun Yue",
+                "affiliation_name": "Peking University"
+            },
+            {
+                "author_name": " Cong Fang",
+                "affiliation_name": " Peking University"
+            },
+            {
+                "author_name": " Zhouchen Lin",
+                "affiliation_name": "Peking University"
+            }
+        ]
+    },
+    "82": {
+        "paper_id": 82,
+        "paper_title": "Curvature and complexity: Better lower bounds for geodesically convex optimization",
+        "authors": [
+            {
+                "author_name": "Christopher CRISCITIELLO",
+                "affiliation_name": "Epfl"
+            },
+            {
+                "author_name": " Nicolas Boumal",
+                "affiliation_name": "EPFL"
+            }
+        ]
+    },
+    "83": {
+        "paper_id": 83,
+        "paper_title": "A Nearly Tight Bound for Fitting an Ellipsoid to Gaussian Random Points",
+        "authors": [
+            {
+                "author_name": "Daniel Kane",
+                "affiliation_name": "-"
+            },
+            {
+                "author_name": " Ilias Diakonikolas",
+                "affiliation_name": "University of Wisconsin-Madison"
+            }
+        ]
+    },
+    "84": {
+        "paper_id": 84,
+        "paper_title": "Hardness of Agnostically Learning Halfspaces from Worst-Case Lattice Problems",
+        "authors": [
+            {
+                "author_name": "Stefan Tiegel",
+                "affiliation_name": "ETH Z\u00fcrich"
+            }
+        ]
+    },
+    "85": {
+        "paper_id": 85,
+        "paper_title": "Testing of Index-Invariant Properties in the Huge Object Model",
+        "authors": [
+            {
+                "author_name": "Sourav Chakraborty",
+                "affiliation_name": "Indian Statistical Institute"
+            },
+            {
+                "author_name": " Eldar Fischer",
+                "affiliation_name": "Technion - Israel Institute of Technology"
+            },
+            {
+                "author_name": " Arijit Ghosh",
+                "affiliation_name": "Indian Statistical Institute"
+            },
+            {
+                "author_name": " Gopinath Mishra",
+                "affiliation_name": "University of Warwick, UK"
+            },
+            {
+                "author_name": " Sayantan Sen",
+                "affiliation_name": "Indian Statistical Institute"
+            }
+        ]
+    },
+    "86": {
+        "paper_id": 86,
+        "paper_title": "Algorithmic Gaussianization through Sketching: Converting Data into Sub-gaussian Random Designs",
+        "authors": [
+            {
+                "author_name": "Michal Derezinski",
+                "affiliation_name": "University of Michigan"
+            }
+        ]
+    },
+    "87": {
+        "paper_id": 87,
+        "paper_title": "Benign Overfitting in Linear Classifiers and Leaky ReLU Networks from KKT Conditions for Margin Maximization",
+        "authors": [
+            {
+                "author_name": "Spencer Frei",
+                "affiliation_name": "UC Berkeley"
+            },
+            {
+                "author_name": " Gal Vardi",
+                "affiliation_name": "TTI-Chicago"
+            },
+            {
+                "author_name": " Peter Bartlett",
+                "affiliation_name": ""
+            },
+            {
+                "author_name": " Nathan Srebro",
+                "affiliation_name": "Toyota Technical Institute of Chicago"
+            }
+        ]
+    },
+    "88": {
+        "paper_id": 88,
+        "paper_title": "Simple Binary Hypothesis Testing under Local Differential Privacy and Communication Constraints",
+        "authors": [
+            {
+                "author_name": "Ankit Pensia",
+                "affiliation_name": "University of Wisconsin-Madison"
+            },
+            {
+                "author_name": " Amir Reza Asadi",
+                "affiliation_name": "University of Cambridge"
+            },
+            {
+                "author_name": " Varun Jog",
+                "affiliation_name": "University of Cambridge"
+            },
+            {
+                "author_name": " Po-Ling Loh",
+                "affiliation_name": "University of Cambridge"
+            }
+        ]
+    },
+    "89": {
+        "paper_id": 89,
+        "paper_title": "Geometric Barriers for Stable and Online Algorithms for Discrepancy Minimization",
+        "authors": [
+            {
+                "author_name": "David Gamarnik",
+                "affiliation_name": "MIT"
+            },
+            {
+                "author_name": " Eren C Kizildag",
+                "affiliation_name": "Columbia University"
+            },
+            {
+                "author_name": " Will Perkins",
+                "affiliation_name": "Georgia Tech"
+            },
+            {
+                "author_name": " Changji Xu",
+                "affiliation_name": "Harvard"
+            }
+        ]
+    },
+    "90": {
+        "paper_id": 90,
+        "paper_title": "Intrinsic dimensionality and generalization properties of the R-norm inductive bias",
+        "authors": [
+            {
+                "author_name": "Navid Ardeshir",
+                "affiliation_name": "Columbia University"
+            },
+            {
+                "author_name": " Daniel J Hsu",
+                "affiliation_name": "Columbia University"
+            },
+            {
+                "author_name": " Clayton H Sanford",
+                "affiliation_name": "Columbia"
+            }
+        ]
+    },
+    "91": {
+        "paper_id": 91,
+        "paper_title": "Improved Dynamic Regret for Online Frank-Wolfe",
+        "authors": [
+            {
+                "author_name": "Yuanyu Wan",
+                "affiliation_name": "Zhejiang University"
+            },
+            {
+                "author_name": " Lijun Zhang",
+                "affiliation_name": "Nanjing University"
+            },
+            {
+                "author_name": " Mingli Song",
+                "affiliation_name": "Zhejiang University"
+            }
+        ]
+    },
+    "92": {
+        "paper_id": 92,
+        "paper_title": "Online Nonconvex Optimization with Limited Instantaneous Oracle Feedback",
+        "authors": [
+            {
+                "author_name": "Ziwei Guan",
+                "affiliation_name": "The Ohio State University"
+            },
+            {
+                "author_name": " Yi Zhou",
+                "affiliation_name": "University of Utah"
+            },
+            {
+                "author_name": " Yingbin Liang",
+                "affiliation_name": "The Ohio State University"
+            }
+        ]
+    },
+    "93": {
+        "paper_id": 93,
+        "paper_title": "Tackling Distribution Shift with Bilinear Combinatorial Extrapolation",
+        "authors": [
+            {
+                "author_name": "Max Simchowitz",
+                "affiliation_name": "MIT"
+            },
+            {
+                "author_name": " Abhishek Gupta",
+                "affiliation_name": "University of Washington"
+            },
+            {
+                "author_name": " Kaiqing Zhang",
+                "affiliation_name": "University of Maryland, College Park"
+            }
+        ]
+    },
+    "94": {
+        "paper_id": 94,
+        "paper_title": "The $k$-Cap Process on Geometric Random Graphs",
+        "authors": [
+            {
+                "author_name": "Mirabel E Reid",
+                "affiliation_name": "Georgia Institute of Technology"
+            },
+            {
+                "author_name": " Santosh S Vempala",
+                "affiliation_name": "Georgia Tech"
+            }
+        ]
+    },
+    "95": {
+        "paper_id": 95,
+        "paper_title": "Efficient Algorithms for Sparse Moment Problems without Separation",
+        "authors": [
+            {
+                "author_name": "Zhiyuan Fan",
+                "affiliation_name": "Tsinghua Unversity"
+            },
+            {
+                "author_name": " Jian Li",
+                "affiliation_name": "\" Tsinghua University, China\""
+            }
+        ]
+    },
+    "96": {
+        "paper_id": 96,
+        "paper_title": "From Pseudorandomness to Multi-Group Fairness and Back",
+        "authors": [
+            {
+                "author_name": "Cynthia Dwork",
+                "affiliation_name": "Harvard"
+            },
+            {
+                "author_name": " Daniel Lee",
+                "affiliation_name": "University of Pennsylvania"
+            },
+            {
+                "author_name": " Huijia Lin",
+                "affiliation_name": "University of Washington"
+            },
+            {
+                "author_name": " Pranay Tankala",
+                "affiliation_name": "Harvard University"
+            }
+        ]
+    },
+    "97": {
+        "paper_id": 97,
+        "paper_title": "A new ranking scheme for modern data and its application to two-sample hypothesis testing",
+        "authors": [
+            {
+                "author_name": "Doudou Zhou",
+                "affiliation_name": "Harvard University"
+            },
+            {
+                "author_name": " Hao Chen",
+                "affiliation_name": "University of California, Davis"
+            }
+        ]
+    },
+    "98": {
+        "paper_id": 98,
+        "paper_title": "Linearization Algorithms for Fully Composite Optimization",
+        "authors": [
+            {
+                "author_name": "Maria-Luiza Vladarean",
+                "affiliation_name": "EPFL"
+            },
+            {
+                "author_name": " Nikita Doikov",
+                "affiliation_name": "EPFL"
+            },
+            {
+                "author_name": " Martin Jaggi",
+                "affiliation_name": "EPFL"
+            },
+            {
+                "author_name": " Nicolas Flammarion",
+                "affiliation_name": "EPFL"
+            }
+        ]
+    },
+    "99": {
+        "paper_id": 99,
+        "paper_title": "Near Optimal Heteroscedastic Regression with Symbiotic Learning",
+        "authors": [
+            {
+                "author_name": "Aniket Das",
+                "affiliation_name": "Google Research"
+            },
+            {
+                "author_name": " Dheeraj M Nagaraj",
+                "affiliation_name": "Google Research"
+            },
+            {
+                "author_name": " Praneeth Netrapalli",
+                "affiliation_name": "Google Research"
+            },
+            {
+                "author_name": " Dheeraj Baby",
+                "affiliation_name": "University of California Santa Barbara"
+            }
+        ]
+    },
+    "100": {
+        "paper_id": 100,
+        "paper_title": "Approximately Stationary Bandits with Knapsacks",
+        "authors": [
+            {
+                "author_name": "Giannis Fikioris",
+                "affiliation_name": "Cornell University"
+            },
+            {
+                "author_name": " Eva Tardos",
+                "affiliation_name": "Cornell University"
+            }
+        ]
+    },
+    "101": {
+        "paper_id": 101,
+        "paper_title": "Lower Bounds for the Convergence of Tensor Power Iteration on Random Overcomplete Models",
+        "authors": [
+            {
+                "author_name": "Yuchen Wu",
+                "affiliation_name": "Stanford University"
+            },
+            {
+                "author_name": " Kangjie Zhou",
+                "affiliation_name": "Stanford University"
+            }
+        ]
+    },
+    "102": {
+        "paper_id": 102,
+        "paper_title": "Causal Matrix Completion",
+        "authors": [
+            {
+                "author_name": "Anish Agarwal",
+                "affiliation_name": "Amazon"
+            },
+            {
+                "author_name": " Munther Dahleh",
+                "affiliation_name": "MIT"
+            },
+            {
+                "author_name": " Devavrat Shah",
+                "affiliation_name": "MIT"
+            },
+            {
+                "author_name": " Dennis Shen",
+                "affiliation_name": "UC Berkeley"
+            }
+        ]
+    },
+    "103": {
+        "paper_id": 103,
+        "paper_title": "A High-dimensional Convergence Theorem for U-statistics with Applications to Kernel-based Testing",
+        "authors": [
+            {
+                "author_name": "Kevin H Huang",
+                "affiliation_name": "UCL"
+            },
+            {
+                "author_name": " Xing Liu",
+                "affiliation_name": "Imperial College London"
+            },
+            {
+                "author_name": " Andrew Duncan",
+                "affiliation_name": "Imperial College London"
+            },
+            {
+                "author_name": " Axel Gandy",
+                "affiliation_name": "Imperial College London"
+            }
+        ]
+    },
+    "104": {
+        "paper_id": 104,
+        "paper_title": "Asymptotic confidence sets for random linear programs",
+        "authors": [
+            {
+                "author_name": "Shuyu Liu",
+                "affiliation_name": "New York University"
+            },
+            {
+                "author_name": " Florentina Bunea",
+                "affiliation_name": "Cornell University"
+            },
+            {
+                "author_name": " Jonathan Niles-Weed",
+                "affiliation_name": "NYU"
+            }
+        ]
+    },
+    "105": {
+        "paper_id": 105,
+        "paper_title": "Algorithmically Effective Differentially Private Synthetic Data",
+        "authors": [
+            {
+                "author_name": "Yiyun He",
+                "affiliation_name": "University of California, Irvine"
+            },
+            {
+                "author_name": " Roman Vershynin",
+                "affiliation_name": "UCI"
+            },
+            {
+                "author_name": " Yizhe Zhu",
+                "affiliation_name": "UC Irvine"
+            }
+        ]
+    },
+    "106": {
+        "paper_id": 106,
+        "paper_title": "Tight Guarantees for Interactive Decision Making with the Decision-Estimation Coefficient",
+        "authors": [
+            {
+                "author_name": "Dylan J Foster",
+                "affiliation_name": "Microsoft Research"
+            },
+            {
+                "author_name": " Noah Golowich",
+                "affiliation_name": "Massachusetts Institute of Technology"
+            },
+            {
+                "author_name": " Yanjun Han",
+                "affiliation_name": "MIT"
+            }
+        ]
+    },
+    "107": {
+        "paper_id": 107,
+        "paper_title": "Reaching Kesten-Stigum Threshold in the Stochastic Block Model under Node Corruptions",
+        "authors": [
+            {
+                "author_name": "Yiding Hua",
+                "affiliation_name": "ETH Z\u00fcrich"
+            },
+            {
+                "author_name": " Jingqiu Ding",
+                "affiliation_name": "ETH Zurich"
+            },
+            {
+                "author_name": " Tommaso d'Orsi",
+                "affiliation_name": "ETH ZURICH"
+            },
+            {
+                "author_name": " David Steurer",
+                "affiliation_name": "ETH ZURICH"
+            }
+        ]
+    },
+    "108": {
+        "paper_id": 108,
+        "paper_title": "Utilising the CLT Structure in Stochastic Gradient based Sampling : Improved Analysis and Faster Algorithms",
+        "authors": [
+            {
+                "author_name": "Aniket Das",
+                "affiliation_name": "Google Research"
+            },
+            {
+                "author_name": " Dheeraj M Nagaraj",
+                "affiliation_name": "Google Research"
+            },
+            {
+                "author_name": " Ananr Raj",
+                "affiliation_name": "INRIA"
+            }
+        ]
+    },
+    "109": {
+        "paper_id": 109,
+        "paper_title": "The Expressive Power of Tuning Only the Normalization Layers",
+        "authors": [
+            {
+                "author_name": "Angeliki Giannou",
+                "affiliation_name": "UW Madison"
+            },
+            {
+                "author_name": " Shashank Rajput",
+                "affiliation_name": "University of Wisconsin - Madison"
+            },
+            {
+                "author_name": " Dimitris Papailiopoulos",
+                "affiliation_name": "University of Wisconsin - Madison"
+            }
+        ]
+    },
+    "110": {
+        "paper_id": 110,
+        "paper_title": "Precise Asymptotic Analysis of Deep Random Feature Models",
+        "authors": [
+            {
+                "author_name": "David Bosch",
+                "affiliation_name": " Chalmers University of Technology "
+            },
+            {
+                "author_name": " Ashkan Panahi",
+                "affiliation_name": "Chalmers University of Technology"
+            },
+            {
+                "author_name": " Babak Hassibi",
+                "affiliation_name": "Caltech"
+            }
+        ]
+    },
+    "111": {
+        "paper_id": 111,
+        "paper_title": "The Complexity of Markov Equilibrium in Stochastic Games",
+        "authors": [
+            {
+                "author_name": "Constantinos Daskalakis",
+                "affiliation_name": "MIT"
+            },
+            {
+                "author_name": " Noah Golowich",
+                "affiliation_name": "Massachusetts Institute of Technology"
+            },
+            {
+                "author_name": " Kaiqing Zhang",
+                "affiliation_name": "University of Maryland, College Park"
+            }
+        ]
+    },
+    "112": {
+        "paper_id": 112,
+        "paper_title": "Near-optimal fitting of ellipsoids to random points",
+        "authors": [
+            {
+                "author_name": "Aaron Potechin",
+                "affiliation_name": "Univerity of Chicago"
+            },
+            {
+                "author_name": " Paxton M Turner",
+                "affiliation_name": "Harvard University"
+            },
+            {
+                "author_name": " Prayaag Venkat",
+                "affiliation_name": "Harvard University"
+            },
+            {
+                "author_name": " Alexander S Wein",
+                "affiliation_name": "UC Davis"
+            }
+        ]
+    },
+    "113": {
+        "paper_id": 113,
+        "paper_title": "Entropic characterization of optimal rates for learning Gaussian mixtures",
+        "authors": [
+            {
+                "author_name": "Zeyu Jia",
+                "affiliation_name": "MIT"
+            },
+            {
+                "author_name": " Yury Polyanskiy",
+                "affiliation_name": "MIT"
+            },
+            {
+                "author_name": " Yihong Wu",
+                "affiliation_name": "Yale University"
+            }
+        ]
+    },
+    "114": {
+        "paper_id": 114,
+        "paper_title": "Minimizing Dynamic Regret on Geodesic Metric Spaces",
+        "authors": [
+            {
+                "author_name": "Zihao Hu",
+                "affiliation_name": "Georgia Institute of Technology"
+            },
+            {
+                "author_name": " Guanghui Wang",
+                "affiliation_name": "Nanjing University"
+            },
+            {
+                "author_name": " Jacob D Abernethy",
+                "affiliation_name": "Georgia Institute of Technolog"
+            }
+        ]
+    },
+    "115": {
+        "paper_id": 115,
+        "paper_title": "Sharp analysis of EM for learning mixtures of pairwise differences",
+        "authors": [
+            {
+                "author_name": "Abhishek Dhawan",
+                "affiliation_name": "Georgia Institute of Technology"
+            },
+            {
+                "author_name": " Cheng Mao",
+                "affiliation_name": "Georgia Institute of Technology"
+            },
+            {
+                "author_name": " Ashwin Pananjady",
+                "affiliation_name": "Georgia Institute of Technology"
+            }
+        ]
+    },
+    "116": {
+        "paper_id": 116,
+        "paper_title": "Zeroth-order Optimization with Weak Dimension Dependency",
+        "authors": [
+            {
+                "author_name": "Pengyun Yue",
+                "affiliation_name": "Peking University"
+            },
+            {
+                "author_name": " Long Yang",
+                "affiliation_name": "Peking University"
+            },
+            {
+                "author_name": " Cong Fang",
+                "affiliation_name": " Peking University"
+            },
+            {
+                "author_name": " Zhouchen Lin",
+                "affiliation_name": "Peking University"
+            }
+        ]
+    },
+    "117": {
+        "paper_id": 117,
+        "paper_title": "Quasi-Newton Steps for Efficient Online Exp-Concave Optimization",
+        "authors": [
+            {
+                "author_name": "Zakaria Mhammedi",
+                "affiliation_name": "MIT"
+            },
+            {
+                "author_name": " Khashayar Gatmiry",
+                "affiliation_name": "Massachusetts Institute of Technology"
+            }
+        ]
+    },
+    "118": {
+        "paper_id": 118,
+        "paper_title": "Condition-number-independent Convergence Rate of Riemannian Hamiltonian Monte Carlo with Numerical Integrators",
+        "authors": [
+            {
+                "author_name": "Yunbum Kook",
+                "affiliation_name": "Georgia Tech"
+            },
+            {
+                "author_name": " Yin Tat Lee",
+                "affiliation_name": "UW"
+            },
+            {
+                "author_name": " Ruoqi Shen",
+                "affiliation_name": "University of Washington"
+            },
+            {
+                "author_name": " Santosh Vempala",
+                "affiliation_name": "Georgia Tech"
+            }
+        ]
+    },
+    "119": {
+        "paper_id": 119,
+        "paper_title": "Deterministic Nonsmooth Nonconvex Optimization",
+        "authors": [
+            {
+                "author_name": "Guy Kornowski",
+                "affiliation_name": "Weizmann Institute of Science"
+            },
+            {
+                "author_name": " Michael Jordan",
+                "affiliation_name": "UC Berkeley"
+            },
+            {
+                "author_name": " Tianyi Lin",
+                "affiliation_name": "UC Berkeley"
+            },
+            {
+                "author_name": " Ohad Shamir",
+                "affiliation_name": "Weizmann Institute of Science"
+            },
+            {
+                "author_name": " Manolis Zampetakis",
+                "affiliation_name": "MIT"
+            }
+        ]
+    },
+    "120": {
+        "paper_id": 120,
+        "paper_title": "How Can Deep Learning Perform Deep (Hierarchical) Learning Beyond Layerwise Training",
+        "authors": [
+            {
+                "author_name": "Zeyuan Allen-Zhu",
+                "affiliation_name": "Meta FAIR Labs"
+            },
+            {
+                "author_name": " Yuanzhi Li",
+                "affiliation_name": "CMU"
+            }
+        ]
+    },
+    "121": {
+        "paper_id": 121,
+        "paper_title": "Differentially Private and Lazy Online Convex Optimization",
+        "authors": [
+            {
+                "author_name": "Naman Agarwal",
+                "affiliation_name": "Google"
+            },
+            {
+                "author_name": " Satyen Kale",
+                "affiliation_name": "Google"
+            },
+            {
+                "author_name": " Karan Singh",
+                "affiliation_name": "Carnegie Mellon University"
+            },
+            {
+                "author_name": " Abhradeep Thakurta",
+                "affiliation_name": "Google"
+            }
+        ]
+    },
+    "122": {
+        "paper_id": 122,
+        "paper_title": "Contextual Bandits with Packing and Covering Constraints: A Modular Lagrangian Approach via Regression",
+        "authors": [
+            {
+                "author_name": "Dylan J Foster",
+                "affiliation_name": "Microsoft Research"
+            },
+            {
+                "author_name": " Karthik Abinav Sankararaman",
+                "affiliation_name": "Facebook"
+            },
+            {
+                "author_name": " Alex Slivkins",
+                "affiliation_name": "Microsoft Research"
+            }
+        ]
+    },
+    "123": {
+        "paper_id": 123,
+        "paper_title": "Law of Large Numbers for Bayesian two-layer Neural Network trained with Variational Inference",
+        "authors": [
+            {
+                "author_name": "Arnaud Descours",
+                "affiliation_name": "Universit\u00e9 Clermont Auvergne"
+            },
+            {
+                "author_name": " Tom tom Huix",
+                "affiliation_name": "Polytechnique"
+            },
+            {
+                "author_name": " Arnaud Guillin",
+                "affiliation_name": "Universit\u00e9 Clermont-Auvergne"
+            },
+            {
+                "author_name": " Manon Michel",
+                "affiliation_name": "Universit\u00e9 Clermont Ferrand"
+            },
+            {
+                "author_name": " Eric Moulines",
+                "affiliation_name": "Ecole Polytechnique"
+            },
+            {
+                "author_name": " Boris Nectoux",
+                "affiliation_name": "Universit\u00e9 Clermont-Auvergne"
+            }
+        ]
+    },
+    "124": {
+        "paper_id": 124,
+        "paper_title": "Quadratic Memory is Necessary for Optimal Query Complexity in Convex Optimization: Center-of-Mass is Pareto-Optimal",
+        "authors": [
+            {
+                "author_name": "Moise Blanchard",
+                "affiliation_name": "Massachusetts Institute of Technology"
+            },
+            {
+                "author_name": " Junhui Zhang",
+                "affiliation_name": "MIT"
+            },
+            {
+                "author_name": " Patrick Jaillet",
+                "affiliation_name": "MIT"
+            }
+        ]
+    },
+    "125": {
+        "paper_id": 125,
+        "paper_title": "Sparse PCA Beyond Covariance Thresholding",
+        "authors": [
+            {
+                "author_name": "Gleb Novikov",
+                "affiliation_name": "ETH Zurich"
+            }
+        ]
+    },
+    "126": {
+        "paper_id": 126,
+        "paper_title": "Finite-Sample Symmetric Mean Estimation with Fisher Information Rate",
+        "authors": [
+            {
+                "author_name": "Shivam Gupta",
+                "affiliation_name": "University of Texas at Austin"
+            },
+            {
+                "author_name": " Jasper C.H. Lee",
+                "affiliation_name": "University of Wisconsin-Madison"
+            },
+            {
+                "author_name": " Eric Price",
+                "affiliation_name": "University of Texas at Austin"
+            }
+        ]
+    },
+    "127": {
+        "paper_id": 127,
+        "paper_title": "Fast Algorithms for a New Relaxation of Optimal Transport",
+        "authors": [
+            {
+                "author_name": "Moses Charikar",
+                "affiliation_name": "Stanford University, California"
+            },
+            {
+                "author_name": " Beidi Chen",
+                "affiliation_name": "Carnegie Mellon University"
+            },
+            {
+                "author_name": " Christopher Re",
+                "affiliation_name": "Stanford University"
+            },
+            {
+                "author_name": " Erik Waingarten",
+                "affiliation_name": "University of Pennsylvania"
+            }
+        ]
+    },
+    "128": {
+        "paper_id": 128,
+        "paper_title": "Generalization Guarantees via Algorithm-dependent Rademacher Complexity",
+        "authors": [
+            {
+                "author_name": "Sarah Sachs",
+                "affiliation_name": "University of Amsterdam"
+            },
+            {
+                "author_name": " Tim van Erven",
+                "affiliation_name": "University of Amsterdam"
+            },
+            {
+                "author_name": " Liam Hodgkinson",
+                "affiliation_name": "University of California, Berkeley"
+            },
+            {
+                "author_name": " Rajiv Khanna",
+                "affiliation_name": "Purdue University"
+            },
+            {
+                "author_name": " Umut Simsekli",
+                "affiliation_name": "Inria/ENS"
+            }
+        ]
+    },
+    "129": {
+        "paper_id": 129,
+        "paper_title": "Interpolation Learning With Minimum Description Length",
+        "authors": [
+            {
+                "author_name": "Naren Sarayu Manoj",
+                "affiliation_name": "TTIC"
+            },
+            {
+                "author_name": " Nathan Srebro",
+                "affiliation_name": "Toyota Technical Institute of Chicago"
+            }
+        ]
+    },
+    "130": {
+        "paper_id": 130,
+        "paper_title": "$\\ell_p$-Regression in the Arbitrary Partition Model of Communication",
+        "authors": [
+            {
+                "author_name": "Yi Li",
+                "affiliation_name": "Nanyang Technological University"
+            },
+            {
+                "author_name": " Honghao Lin",
+                "affiliation_name": "Carnegie Mellon University"
+            },
+            {
+                "author_name": " David Woodruff",
+                "affiliation_name": "Carnegie Mellon University"
+            }
+        ]
+    },
+    "131": {
+        "paper_id": 131,
+        "paper_title": "On Classification-Calibration of Gamma-Phi Losses",
+        "authors": [
+            {
+                "author_name": "Yutong Wang",
+                "affiliation_name": "University of Michigan"
+            },
+            {
+                "author_name": " Clayton Scott",
+                "affiliation_name": "University of Michigan"
+            }
+        ]
+    },
+    "132": {
+        "paper_id": 132,
+        "paper_title": "Asymptotically Optimal Generalization Error Bounds for Noisy, Iterative Algorithms",
+        "authors": [
+            {
+                "author_name": "Amedeo Roberto Esposito",
+                "affiliation_name": "ISTA"
+            },
+            {
+                "author_name": " Michael Gastpar",
+                "affiliation_name": "EPFL"
+            },
+            {
+                "author_name": " Ibrahim Issa",
+                "affiliation_name": "American University of Beirut"
+            }
+        ]
+    },
+    "133": {
+        "paper_id": 133,
+        "paper_title": "Variance-Dependent Regret Bounds for Linear Bandits and Reinforcement Learning: Adaptivity and Computational Efficiency",
+        "authors": [
+            {
+                "author_name": "Heyang Zhao",
+                "affiliation_name": "UCLA"
+            },
+            {
+                "author_name": " Jiafan He",
+                "affiliation_name": "UCLA"
+            },
+            {
+                "author_name": " Dongruo Zhou",
+                "affiliation_name": "UCLA"
+            },
+            {
+                "author_name": " Tong Zhang",
+                "affiliation_name": "The Hong Kong University of Science and Technology"
+            },
+            {
+                "author_name": " Quanquan Gu",
+                "affiliation_name": "University of California, Los Angeles"
+            }
+        ]
+    },
+    "134": {
+        "paper_id": 134,
+        "paper_title": "PAC Verification of Statistical Algorithms",
+        "authors": [
+            {
+                "author_name": "Saachi Mutreja",
+                "affiliation_name": "UC Berkeley "
+            },
+            {
+                "author_name": " Jonathan Shafer",
+                "affiliation_name": "UC Berkeley"
+            }
+        ]
+    },
+    "135": {
+        "paper_id": 135,
+        "paper_title": "Active Coverage for PAC Reinforcement Learning",
+        "authors": [
+            {
+                "author_name": "Aymen Al Marjani",
+                "affiliation_name": "ENS Lyon"
+            },
+            {
+                "author_name": " Andrea Tirinzoni",
+                "affiliation_name": "Meta AI"
+            },
+            {
+                "author_name": " Emilie Kaufmann",
+                "affiliation_name": "CNRS"
+            }
+        ]
+    },
+    "136": {
+        "paper_id": 136,
+        "paper_title": "Ticketed Learning--Unlearning Schemes",
+        "authors": [
+            {
+                "author_name": "Badih Ghazi",
+                "affiliation_name": "Google"
+            },
+            {
+                "author_name": " Pritish Kamath",
+                "affiliation_name": "Google"
+            },
+            {
+                "author_name": " Ravi Kumar",
+                "affiliation_name": "Google"
+            },
+            {
+                "author_name": " Pasin Manurangsi",
+                "affiliation_name": "Google"
+            },
+            {
+                "author_name": " Ayush Sekhari",
+                "affiliation_name": "CORNELL UNIVERSITY"
+            },
+            {
+                "author_name": " Chiyuan Zhang",
+                "affiliation_name": "Google"
+            }
+        ]
+    },
+    "137": {
+        "paper_id": 137,
+        "paper_title": "Implicit Balancing and Regularization: Generalization and Convergence Guarantees for Overparameterized Asymmetric Matrix Sensing",
+        "authors": [
+            {
+                "author_name": "Mahdi Soltanolkotabi",
+                "affiliation_name": "USC"
+            },
+            {
+                "author_name": " Dominik St\u00f6ger",
+                "affiliation_name": "KU Eichst\u00e4tt-Ingolstadt"
+            },
+            {
+                "author_name": " Changzhi Xie",
+                "affiliation_name": "University of southern California"
+            }
+        ]
+    },
+    "138": {
+        "paper_id": 138,
+        "paper_title": "U-Calibration: Forecasting for an Unknown Agent",
+        "authors": [
+            {
+                "author_name": "Bobby Kleinberg",
+                "affiliation_name": "Cornell University and Google Research"
+            },
+            {
+                "author_name": " Renato Paes Leme",
+                "affiliation_name": "Google"
+            },
+            {
+                "author_name": " Jon Schneider",
+                "affiliation_name": "Google"
+            },
+            {
+                "author_name": " Yifeng Teng",
+                "affiliation_name": "University of Wisconsin-Madison "
+            }
+        ]
+    },
+    "139": {
+        "paper_id": 139,
+        "paper_title": "STay-ON-the-Ridge: Guaranteed Convergence to Local Minimax Equilibrium in Nonconvex-Nonconcave Games",
+        "authors": [
+            {
+                "author_name": "Constantinos Daskalakis",
+                "affiliation_name": "MIT"
+            },
+            {
+                "author_name": " Noah Golowich",
+                "affiliation_name": "Massachusetts Institute of Technology"
+            },
+            {
+                "author_name": " Stratis Skoulakis",
+                "affiliation_name": "Ecole Polytechnique de Lausanne"
+            },
+            {
+                "author_name": " Emmanouil Zampetakis",
+                "affiliation_name": "UC Berkeley"
+            }
+        ]
+    },
+    "140": {
+        "paper_id": 140,
+        "paper_title": "Empirical Bayes via ERM and Rademacher complexities: the Poisson model",
+        "authors": [
+            {
+                "author_name": "Soham Jana",
+                "affiliation_name": "Princeton University"
+            },
+            {
+                "author_name": " Yury Polyanskiy",
+                "affiliation_name": "MIT"
+            },
+            {
+                "author_name": " Anzo Z Teh",
+                "affiliation_name": "Massachusetts Institute of Technology"
+            },
+            {
+                "author_name": " Yihong Wu",
+                "affiliation_name": "Yale University"
+            }
+        ]
+    },
+    "141": {
+        "paper_id": 141,
+        "paper_title": "Kernelized Diffusion Maps",
+        "authors": [
+            {
+                "author_name": "Loucas Pillaud-Vivien",
+                "affiliation_name": "Flatiron institute"
+            },
+            {
+                "author_name": " Francis Bach",
+                "affiliation_name": "INRIA - Ecole Normale Sup\u00e9rieure"
+            }
+        ]
+    },
+    "142": {
+        "paper_id": 142,
+        "paper_title": "Statistical and Computational Limits for Tensor-on-Tensor Association Detection",
+        "authors": [
+            {
+                "author_name": "Ilias Diakonikolas",
+                "affiliation_name": "University of Wisconsin-Madison"
+            },
+            {
+                "author_name": " Daniel M. Kane",
+                "affiliation_name": "UCSD"
+            },
+            {
+                "author_name": " Yuetian Luo",
+                "affiliation_name": "University of Chicago"
+            },
+            {
+                "author_name": " Anru Zhang",
+                "affiliation_name": "Duke University"
+            }
+        ]
+    },
+    "143": {
+        "paper_id": 143,
+        "paper_title": "Sparsity aware generalization theory for deep neural networks",
+        "authors": [
+            {
+                "author_name": "Ramchandran Muthukumar",
+                "affiliation_name": "Johns Hopkins University"
+            },
+            {
+                "author_name": " Jeremias Sulam",
+                "affiliation_name": "Johns Hopkins University"
+            }
+        ]
+    },
+    "144": {
+        "paper_id": 144,
+        "paper_title": "Is Planted Coloring Easier than Planted Clique?",
+        "authors": [
+            {
+                "author_name": "Pravesh Kothari",
+                "affiliation_name": "Princeton.edu"
+            },
+            {
+                "author_name": " Santosh S Vempala",
+                "affiliation_name": "Georgia Tech"
+            },
+            {
+                "author_name": " Alexander S Wein",
+                "affiliation_name": "UC Davis"
+            },
+            {
+                "author_name": " Jeff Xu",
+                "affiliation_name": "CMU"
+            }
+        ]
+    },
+    "145": {
+        "paper_id": 145,
+        "paper_title": "Moments, Random Walks, and Limits for Spectrum Approximation",
+        "authors": [
+            {
+                "author_name": "Yujia Jin",
+                "affiliation_name": "Stanford University"
+            },
+            {
+                "author_name": " Christopher Musco",
+                "affiliation_name": "New York University"
+            },
+            {
+                "author_name": " Aaron Sidford",
+                "affiliation_name": "Stanford"
+            },
+            {
+                "author_name": " Apoorv Vikram Singh",
+                "affiliation_name": "NYU"
+            }
+        ]
+    },
+    "146": {
+        "paper_id": 146,
+        "paper_title": "Minimax optimal testing by classification",
+        "authors": [
+            {
+                "author_name": "Patrik R Gerber",
+                "affiliation_name": "MIT"
+            },
+            {
+                "author_name": " Yanjun Han",
+                "affiliation_name": "MIT"
+            },
+            {
+                "author_name": " Yury Polyanskiy",
+                "affiliation_name": "MIT"
+            }
+        ]
+    },
+    "147": {
+        "paper_id": 147,
+        "paper_title": "Improper Multiclass Boosting",
+        "authors": [
+            {
+                "author_name": "Nataly Brukhim",
+                "affiliation_name": "Princeton University"
+            },
+            {
+                "author_name": " Steve Hanneke",
+                "affiliation_name": "Purdue University"
+            },
+            {
+                "author_name": " Shay Moran",
+                "affiliation_name": "Technion"
+            }
+        ]
+    },
+    "148": {
+        "paper_id": 148,
+        "paper_title": "Distribution-Independent Regression for Generalized Linear Models with Oblivious Corruptions",
+        "authors": [
+            {
+                "author_name": "Ilias Diakonikolas",
+                "affiliation_name": "University of Wisconsin-Madison"
+            },
+            {
+                "author_name": " Sushrut Karmalkar",
+                "affiliation_name": "University of Wisconsin-Madison"
+            },
+            {
+                "author_name": " Jong Ho Park",
+                "affiliation_name": "Krafton Inc."
+            },
+            {
+                "author_name": " Christos Tzamos",
+                "affiliation_name": "UW-Madison"
+            }
+        ]
+    },
+    "149": {
+        "paper_id": 149,
+        "paper_title": "Sharper Model-free Reinforcement Learning for Average-reward Markov Decision Processes",
+        "authors": [
+            {
+                "author_name": "Zihan Zhang",
+                "affiliation_name": "Tsinghua University"
+            },
+            {
+                "author_name": " Qiaomin Xie",
+                "affiliation_name": "University of Wisconsin-Madison"
+            }
+        ]
+    },
+    "150": {
+        "paper_id": 150,
+        "paper_title": "The Aggregation--Heterogeneity Trade-off in Federated Learning",
+        "authors": [
+            {
+                "author_name": "Xuyang Zhao",
+                "affiliation_name": "Peking University"
+            },
+            {
+                "author_name": " Huiyuan Wang",
+                "affiliation_name": "Peking University"
+            },
+            {
+                "author_name": " Wei Lin",
+                "affiliation_name": "Peking University"
+            }
+        ]
+    },
+    "151": {
+        "paper_id": 151,
+        "paper_title": "A Blackbox Approach to Best of Both Worlds in Bandits and Beyond",
+        "authors": [
+            {
+                "author_name": "Chris Dann",
+                "affiliation_name": "Google"
+            },
+            {
+                "author_name": " Chen-Yu Wei",
+                "affiliation_name": "University of Southern California"
+            },
+            {
+                "author_name": " Julian Zimmert",
+                "affiliation_name": "Google"
+            }
+        ]
+    },
+    "152": {
+        "paper_id": 152,
+        "paper_title": "The Computational Complexity of Finding Stationary Points in Non-Convex Optimization",
+        "authors": [
+            {
+                "author_name": "Alexandros Hollender",
+                "affiliation_name": "EPFL"
+            },
+            {
+                "author_name": " Emmanouil Zampetakis",
+                "affiliation_name": "UC Berkeley"
+            }
+        ]
+    },
+    "153": {
+        "paper_id": 153,
+        "paper_title": "Sharp thresholds in inference of planted subgraphs",
+        "authors": [
+            {
+                "author_name": "Elchanan Mossel",
+                "affiliation_name": "MIT"
+            },
+            {
+                "author_name": " Jonathan Niles-Weed",
+                "affiliation_name": "NYU"
+            },
+            {
+                "author_name": " Youngtak Sohn",
+                "affiliation_name": "MIT"
+            },
+            {
+                "author_name": " Nike Sun",
+                "affiliation_name": "Massachusetts Institute of Technology"
+            },
+            {
+                "author_name": " Ilias Zadik",
+                "affiliation_name": "MIT"
+            }
+        ]
+    },
+    "154": {
+        "paper_id": 154,
+        "paper_title": "Fast, Sample-Efficient, Affine-Invariant Private Mean and Covariance Estimation for Subgaussian Distributions",
+        "authors": [
+            {
+                "author_name": "Gavin Brown",
+                "affiliation_name": "Boston University"
+            },
+            {
+                "author_name": " Samuel Hopkins",
+                "affiliation_name": "MIT"
+            },
+            {
+                "author_name": " Adam Smith",
+                "affiliation_name": "Boston University"
+            }
+        ]
+    },
+    "155": {
+        "paper_id": 155,
+        "paper_title": "Learning Narrow One-Hidden-Layer ReLU Networks",
+        "authors": [
+            {
+                "author_name": "Sitan Chen",
+                "affiliation_name": "UC Berkeley"
+            },
+            {
+                "author_name": " Zehao Dou",
+                "affiliation_name": "Yale University"
+            },
+            {
+                "author_name": " Surbhi Goel",
+                "affiliation_name": "University of Texas at Austin"
+            },
+            {
+                "author_name": " Adam Klivans",
+                "affiliation_name": "University of Texas at Austin"
+            },
+            {
+                "author_name": " Raghu Meka",
+                "affiliation_name": "UCLA"
+            }
+        ]
+    },
+    "156": {
+        "paper_id": 156,
+        "paper_title": "Universal Rates for Multiclass Learning",
+        "authors": [
+            {
+                "author_name": "Steve Hanneke",
+                "affiliation_name": "Purdue University"
+            },
+            {
+                "author_name": " Shay Moran",
+                "affiliation_name": "-"
+            },
+            {
+                "author_name": " Qian Zhang",
+                "affiliation_name": "Purdue University"
+            }
+        ]
+    },
+    "157": {
+        "paper_id": 157,
+        "paper_title": "Multiclass Online Learning and Uniform Convergence",
+        "authors": [
+            {
+                "author_name": "Steve Hanneke",
+                "affiliation_name": "Purdue University"
+            },
+            {
+                "author_name": " Shay Moran",
+                "affiliation_name": "-"
+            }
+        ]
+    },
+    "158": {
+        "paper_id": 158,
+        "paper_title": "Local Risk Bounds for Entropy-Regularized Aggregation",
+        "authors": [
+            {
+                "author_name": "Jaouad Mourtada",
+                "affiliation_name": "CREST, ENSAE"
+            },
+            {
+                "author_name": " Nikita Zhivotovskiy",
+                "affiliation_name": "UC Berkeley"
+            },
+            {
+                "author_name": " Tomas Vaskevicius",
+                "affiliation_name": "EPFL"
+            }
+        ]
+    },
+    "159": {
+        "paper_id": 159,
+        "paper_title": "The Implicit Bias of Batch Normalization in Linear Models and Two-layer Linear Convolutional Neural Networks",
+        "authors": [
+            {
+                "author_name": "Yuan Cao",
+                "affiliation_name": "The University of Hong Kong"
+            },
+            {
+                "author_name": " Difan Zou",
+                "affiliation_name": "The University of Hong Kong"
+            },
+            {
+                "author_name": " Yuanzhi Li",
+                "affiliation_name": "CMU"
+            },
+            {
+                "author_name": " Quanquan Gu",
+                "affiliation_name": "University of California, Los Angeles"
+            }
+        ]
+    },
+    "160": {
+        "paper_id": 160,
+        "paper_title": "On a Class of Gibbs Sampling over Networks",
+        "authors": [
+            {
+                "author_name": "Bo Yuan",
+                "affiliation_name": "Georgia Institute of Technology"
+            },
+            {
+                "author_name": " Jiaojiao Fan",
+                "affiliation_name": "Georgia Institute of Technology"
+            },
+            {
+                "author_name": " Jiaming Liang",
+                "affiliation_name": "Yale University"
+            },
+            {
+                "author_name": " Andre Wibisono",
+                "affiliation_name": "Yale University"
+            },
+            {
+                "author_name": " Yongxin Chen",
+                "affiliation_name": "Georgia Institute of Technology"
+            }
+        ]
+    },
+    "161": {
+        "paper_id": 161,
+        "paper_title": "Limits of Model Selection under Transfer Learning",
+        "authors": [
+            {
+                "author_name": "Steve Hanneke",
+                "affiliation_name": "Purdue University"
+            },
+            {
+                "author_name": " Samory Kpotufe",
+                "affiliation_name": "Columbia University"
+            },
+            {
+                "author_name": " Yasaman Mahdaviyeh",
+                "affiliation_name": "Columbia University"
+            }
+        ]
+    },
+    "162": {
+        "paper_id": 162,
+        "paper_title": "Bandit Learnability can be Undecidable",
+        "authors": [
+            {
+                "author_name": "Steve Hanneke",
+                "affiliation_name": "Purdue University"
+            },
+            {
+                "author_name": " Liu Yang",
+                "affiliation_name": "Independent"
+            }
+        ]
+    },
+    "163": {
+        "paper_id": 163,
+        "paper_title": "Detection-Recovery and Detection-Refutation Gaps via Reductions from Planted Clique",
+        "authors": [
+            {
+                "author_name": "Guy Bresler",
+                "affiliation_name": "MIT"
+            },
+            {
+                "author_name": " Tianze Jiang",
+                "affiliation_name": "Massachusetts Institute of Technology"
+            }
+        ]
+    },
+    "164": {
+        "paper_id": 164,
+        "paper_title": "Fine-Grained Distribution-Dependent Learning Curves",
+        "authors": [
+            {
+                "author_name": "Olivier Bousquet",
+                "affiliation_name": "Google"
+            },
+            {
+                "author_name": " Steve Hanneke",
+                "affiliation_name": "Purdue University"
+            },
+            {
+                "author_name": " Shay Moran",
+                "affiliation_name": "Technion"
+            },
+            {
+                "author_name": " Jonathan Shafer",
+                "affiliation_name": "UC Berkeley"
+            },
+            {
+                "author_name": " Ilya Tolstikhin",
+                "affiliation_name": "Google"
+            }
+        ]
+    },
+    "165": {
+        "paper_id": 165,
+        "paper_title": "Efficient median of means estimator",
+        "authors": [
+            {
+                "author_name": "Stanislav Minsker",
+                "affiliation_name": "U. of Southern California"
+            }
+        ]
+    }
+}
