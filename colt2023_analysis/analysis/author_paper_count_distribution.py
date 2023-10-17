@@ -15,7 +15,7 @@ def print_top_authors(authors_dictionary):
 
 def print_author_paper_count_distribution(authors_dictionary):
     paper_count_author_count_dictionary = {}
-    for author_name, paper_count in authors_dictionary.items():
+    for _, paper_count in authors_dictionary.items():
         if paper_count in paper_count_author_count_dictionary:
             paper_count_author_count_dictionary[paper_count] += 1
         else:
@@ -28,19 +28,25 @@ def print_author_paper_count_distribution(authors_dictionary):
         print(f"{item_index + 1}. Number of author with {paper_count} accepted papers - {author_count}")
 
 
+def generate_authors_dictionary(paper_data_dictionary):
+    authors_dictionary = {}
+    for paper_id, paper_data in paper_data_dictionary.items():
+        authors = paper_data["authors"]
+        for author in authors:
+            author_name = author["author_name"]
+            if author_name not in authors_dictionary:
+                authors_dictionary[author_name] = 1
+            else:
+                authors_dictionary[author_name] += 1
+    return authors_dictionary
+
+
 def author_paper_count_analysis():
     with open("../../" + STRUCTURED_DATA_FILE_PATH, "r") as structured_data_file:
         paper_data_dictionary = json.load(structured_data_file)
-        authors_dictionary = {}
-        for paper_id, paper_data in paper_data_dictionary.items():
-            authors = paper_data["authors"]
-            for author in authors:
-                author_name = author["author_name"]
-                if author_name not in authors_dictionary:
-                    authors_dictionary[author_name] = 1
-                else:
-                    authors_dictionary[author_name] += 1
+        authors_dictionary = generate_authors_dictionary(paper_data_dictionary)
         print_top_authors(authors_dictionary)
+        print()
         print_author_paper_count_distribution(authors_dictionary)
 
 

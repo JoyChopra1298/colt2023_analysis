@@ -20,12 +20,14 @@ The structured data contains each paper in following JSON format
     ]
 }
 ```
+Note - data cleaning has not been done
 
 Results of basic analysis
 1. There are 165 accepted papers
 2. There are 438 unique authors
 3. There are 173 unique affiliations
 4. Steve Hanneke is the author with highest number of accepted papers. He has 7 accepted papers.
+5. MIT is the affiliation with highest number of authors. It has 29 authors.
 
 Distribution of paper count and author counts
 1. Number of author with 1 accepted papers - 373
@@ -47,3 +49,33 @@ There are 11 authors with 3 or more papers.
 9. Nikos Zarifis - 3 papers
 10. Alexander S Wein - 3 papers
 11. Kaiqing Zhang - 3 papers
+
+Distribution of author count and affiliation counts
+1. Number of affiliations with 1 authors - 98
+2. Number of affiliations with 2 authors - 26
+3. Number of affiliations with 3 authors - 20
+4. Number of affiliations with 4 authors - 6
+5. Number of affiliations with 5 authors - 6
+6. Number of affiliations with 6 authors - 4
+7. Number of affiliations with 7 authors - 2
+8. Number of affiliations with 8 authors - 2
+9. Number of affiliations with 9 authors - 3
+10. Number of affiliations with 10 authors - 1
+11. Number of affiliations with 11 authors - 1
+12. Number of affiliations with 13 authors - 1
+13. Number of affiliations with 15 authors - 1
+14. Number of affiliations with 19 authors - 1
+15. Number of affiliations with 29 authors - 1
+
+There are 11 affiliations with 8 or more authors
+1. MIT - 29 authors
+2. Google - 19 authors
+3. Stanford University - 15 authors
+4. EPFL - 13 authors
+5. UC Berkeley - 11 authors
+6. University of Wisconsin-Madison - 10 authors
+7. Cornell University - 9 authors
+8. University of Texas at Austin - 9 authors
+9. Georgia Institute of Technology - 9 authors
+10. Massachusetts Institute of Technology - 8 authors
+11. Technion - 8 authors
