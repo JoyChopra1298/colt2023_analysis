@@ -15,7 +15,7 @@ def print_top_authors(authors_dictionary):
 
 def print_author_paper_count_distribution(authors_dictionary):
     paper_count_author_count_dictionary = {}
-    for _, paper_count in authors_dictionary.items():
+    for paper_count in authors_dictionary.values():
         if paper_count in paper_count_author_count_dictionary:
             paper_count_author_count_dictionary[paper_count] += 1
         else:

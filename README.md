@@ -79,3 +79,30 @@ There are 11 affiliations with 8 or more authors
 9. Georgia Institute of Technology - 9 authors
 10. Massachusetts Institute of Technology - 8 authors
 11. Technion - 8 authors
+
+Distribution of paper count and affiliation counts
+1. Number of affiliations with 1 papers - 108
+2. Number of affiliations with 2 papers - 27
+3. Number of affiliations with 3 papers - 17
+4. Number of affiliations with 4 papers - 5
+5. Number of affiliations with 5 papers - 3
+6. Number of affiliations with 6 papers - 3
+7. Number of affiliations with 7 papers - 2
+8. Number of affiliations with 8 papers - 1
+9. Number of affiliations with 9 papers - 1
+10. Number of affiliations with 10 papers - 2
+11. Number of affiliations with 11 papers - 1
+12. Number of affiliations with 12 papers - 2
+13. Number of affiliations with 28 papers - 1
+
+There are 10 affiliations with more than 6 authors
+1. MIT - 28 papers
+2. Massachusetts Institute of Technology - 12 papers
+3. Stanford University - 12 papers
+4. Google - 11 papers
+5. UC Berkeley - 10 papers
+6. University of Wisconsin-Madison - 10 papers
+7. Purdue University - 9 papers
+8. EPFL - 8 papers
+9. University of Washington - 7 papers
+10. Microsoft Research - 7 papers
