@@ -1,6 +1,6 @@
 import json
 
-from constants.file_names import STRUCTURED_DATA_FILE_PATH
+from constants.file_names import CLEANED_DATA_FILE_PATH
 from utils.general_utils import sort_dictionary_by_values, sort_dictionary_by_keys
 
 NUMBER_OF_TOP_AUTHORS = 11
@@ -42,8 +42,8 @@ def generate_authors_dictionary(paper_data_dictionary):
 
 
 def author_paper_count_analysis():
-    with open("../../" + STRUCTURED_DATA_FILE_PATH, "r") as structured_data_file:
-        paper_data_dictionary = json.load(structured_data_file)
+    with open("../../" + CLEANED_DATA_FILE_PATH, "r") as data_file:
+        paper_data_dictionary = json.load(data_file)
         authors_dictionary = generate_authors_dictionary(paper_data_dictionary)
         print_top_authors(authors_dictionary)
         print()

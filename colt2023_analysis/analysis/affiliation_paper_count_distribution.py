@@ -1,6 +1,6 @@
 import json
 
-from constants.file_names import STRUCTURED_DATA_FILE_PATH
+from constants.file_names import CLEANED_DATA_FILE_PATH
 from utils.general_utils import sort_dictionary_by_values, sort_dictionary_by_keys
 
 NUMBER_OF_TOP_AFFILIATIONS = 10
@@ -52,8 +52,8 @@ def generate_affiliations_dictionary(paper_data_dictionary):
 
 
 def affiliation_paper_count_analysis():
-    with open("../../" + STRUCTURED_DATA_FILE_PATH, "r") as structured_data_file:
-        paper_data_dictionary = json.load(structured_data_file)
+    with open("../../" + CLEANED_DATA_FILE_PATH, "r") as data_file:
+        paper_data_dictionary = json.load(data_file)
         affiliations_dictionary = generate_affiliations_dictionary(paper_data_dictionary)
         print_top_affiliations(affiliations_dictionary)
         print()

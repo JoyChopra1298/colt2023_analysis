@@ -1,11 +1,11 @@
 import json
 
-from constants.file_names import STRUCTURED_DATA_FILE_PATH
+from constants.file_names import CLEANED_DATA_FILE_PATH
 
 
 def unique_authors_analysis():
-    with open("../../" + STRUCTURED_DATA_FILE_PATH, "r") as structured_data_file:
-        paper_data_dictionary = json.load(structured_data_file)
+    with open("../../" + CLEANED_DATA_FILE_PATH, "r") as data_file:
+        paper_data_dictionary = json.load(data_file)
         authors_dictionary = {}
         for paper_id, paper_data in paper_data_dictionary.items():
             authors = paper_data["authors"]
