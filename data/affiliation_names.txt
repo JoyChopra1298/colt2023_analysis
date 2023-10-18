@@ -1,0 +1,173 @@
+
+" Tsinghua University, China"
+-
+-MIT
+Aarhus University
+Amazon
+Amazon Science
+American University of Beirut
+Apple
+Ben-Gurion University
+Ben-Gurion University of the Negev
+Boston University
+CMU
+CNRS
+CORNELL UNIVERSITY
+CREST, ENSAE
+Caltech
+Carnegie Mellon University
+Chalmers University of Technology
+Columbia
+Columbia University
+Cornell University
+Cornell University and Google Research
+DeepMind
+DeepMind/University of Alberta
+Deepmind / UCL
+Duke University
+ENS Lyon
+ENSAE ParisTech
+ENSL
+EPFL
+ETH ZURICH
+ETH Zurich
+ETH Zürich
+Ecole Polytechnique
+Ecole Polytechnique de Lausanne
+Ecole polytechnique
+Eindhoven University of Technology
+Epfl
+Facebook
+Flatiron institute
+Georgia Institute of Technolog
+Georgia Institute of Technology
+Georgia Tech
+Google
+Google Research
+HSE University
+HSE University and IITP RAS
+Harvard
+Harvard University
+Hong Kong Baptist University
+IISc), Bangalore
+IMC - Universidad Catolica
+INRIA
+INRIA - Ecole Normale Supérieure
+ISTA
+Imperial College London
+Independent
+Indian Institute of Science
+Indian Statistical Institute
+Inria
+Inria/ENS
+Institute of Computing Technology, Chinese Academy of Sciences
+Johns Hopkins University
+KU Eichstätt-Ingolstadt
+Krafton Inc.
+Kyoto University
+MIT
+Massachusetts Institute of Technology
+Max Planck Institute for Intelligent Systems
+Meta AI
+Meta FAIR Labs
+Microsoft
+Microsoft Research
+Microsoft Research Asia
+NEC Corporation
+NYU
+Nanjing University
+Nanyang Technological University
+National University of Singapore
+New York University
+Northeastern University
+Northwestern University
+Peking University
+Penn State
+Polytechnique
+Pontificia Universidad Católica de Chile
+Princeton
+Princeton University
+Princeton University/DeepMind
+Princeton.edu
+Purdue University
+Rutgers University
+Salesforce Research
+Sapienza University of Rome
+Shanghai Jiao Tong University
+Stanford
+Stanford University
+Stanford University, California
+TTI-Chicago
+TTIC
+TU Berlin
+Technion
+Technion - Israel Institute of Technology
+Tel Aviv University and Google
+Tel-Aviv University
+The Hong Kong University of Science and Technology
+The Ohio State University
+The University of Hong Kong
+Toyota Technical Institute of Chicago
+Toyota Technological Institute at Chicago
+Tsinghua University
+Tsinghua Unversity
+Télécom SudParis
+U. of Southern California
+UC Berkeley
+UC Davis
+UC Irvine
+UCI
+UCL
+UCLA
+UCSB
+UCSD
+USC
+UT Austin
+UW
+UW Madison
+UW-Madison
+Univerity of Chicago
+Universidad Católica de Chile
+University
+University of Amsterdam
+University of Arizona
+University of California San Diego
+University of California Santa Barbara
+University of California, Berkeley
+University of California, Davis
+University of California, Irvine
+University of California, Los Angeles
+University of California, San Diego
+University of Cambridge
+University of Chicago
+University of Maryland, College Park
+University of Michigan
+University of Milan
+University of Ottawa
+University of Oxford
+University of Pennsylvania
+University of Rochester
+University of Science and Technology of China
+University of Southern California
+University of Texas
+University of Texas at Austin
+University of Toronto
+University of Toronto, Vector Institute
+University of Utah
+University of Warwick, UK
+University of Washington
+University of Wisconsin - Madison
+University of Wisconsin-Madison
+University of southern California
+Università degli Studi di Milano & Istituto Italiano di Tecnologia
+Université Clermont Auvergne
+Université Clermont Ferrand
+Université Clermont-Auvergne
+Universty of Wisconsin Madison
+WPI
+Weizmann Institute of Science
+Wuhan University
+Yale University
+ZIB
+Zhejiang University
+École Polytechnique

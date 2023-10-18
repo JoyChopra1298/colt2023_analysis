@@ -28,6 +28,7 @@ Results of basic analysis
 3. There are 173 unique affiliations
 4. Steve Hanneke is the author with highest number of accepted papers. He has 7 accepted papers.
 5. MIT is the affiliation with highest number of authors. It has 29 authors.
+6. MIT is the affiliation with highest number of papers. It has 28 papers.
 
 Distribution of paper count and author counts
 1. Number of author with 1 accepted papers - 373
