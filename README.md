@@ -20,7 +20,7 @@ The structured data contains each paper in following JSON format
     ]
 }
 ```
-Note - data cleaning has not been done
+Note - data has been partially cleaned
 
 Results of basic analysis
 1. There are 165 accepted papers
